@@ -1,0 +1,24 @@
+{
+  "Animal Checks": {
+    "yaml_option": [
+      "animal_kill_checks"
+    ]
+  },
+  "Shuffle Playable Animals": {
+    "yaml_option": [
+      "shuffle_playable_animals"
+    ]
+  },
+  "Shuffle Power Cells": {
+    "hidden": true,
+    "yaml_option": [
+      "shuffle_power_cells"
+    ]
+  },
+  "Evo Parts unlock BCP": {
+	"hidden": true,
+	"yaml_option": [
+	  "evo_unlocks_bcp"
+	]
+  }
+}

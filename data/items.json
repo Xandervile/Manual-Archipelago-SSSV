@@ -1,0 +1,618 @@
+[
+  {
+    "name": "Have A Nice Day Access",
+    "count": 1,
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "category": [
+      "Level Access"
+    ],
+    "name": "Honeymoon Lagoon Access",
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Battery Farm Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Engine Room Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fat Bear Mountain Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rocky Hard Place Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Stinky Sewers Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rat-O-Matic Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Give A Dog A Bonus Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Snow Joke Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ice 'n' Easy Does It Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Penguin Playpen Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pinball Blizzard Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hoppa Choppa Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Something Fishy Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Walrace Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jungle Japes Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jungle Doldrums Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Swamp of Eternal Stench Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Weight For It Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Jungle Jumps Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Evo's Escape Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fun in the Sun Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hot Cross Buns Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sting in the Tail Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Borassic Park Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Whirlwind Tour Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shifting Sands Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Punch Up Pyramid Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Big Celebration Parade Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": "26",
+    "name": "Trophy",
+    "category": [
+      "Trophy Collect"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Smashing Start Access",
+    "category": [
+      "Level Access"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sheep",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Dog",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Racing Mouse",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Racing Fox",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Racing Dog",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Bear",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ram",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rat",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Spring Sheep",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "King Rat",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Flying Dog",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Penguin",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Husky",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rabbit",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Walrus",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Seagull",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Polar Bear",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Skiing Husky",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "King Penguin",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cool Cod",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tortoise Tank",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Elephant",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hyena",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Piranha",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hippo",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Racing Tortoise",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gorilla",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lion",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Parrot",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Chameleon",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Racing Hyena",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Security Camera",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Armed Desert Fox",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Camel",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vulture",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Desert Fox",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Scorpion",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kangaroo",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Pogo Kangaroo",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Camel Tank",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Heli Rabbit",
+    "category": [
+      "Shuffle Playable Animals"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Evo's Torso",
+    "category": [
+      "Evo Parts"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Evo's Legs",
+    "category": [
+      "Evo Parts"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Evo's Arms",
+    "category": [
+      "Evo Parts"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Evo's Head",
+    "category": [
+      "Evo Parts"
+    ],
+    "progression": true
+  }
+]

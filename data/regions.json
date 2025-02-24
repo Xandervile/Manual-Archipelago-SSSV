@@ -1,0 +1,130 @@
+{
+  "Level Select": {
+	"connects_to": ["Smashing Start", "Have A Nice Day", "Honeymoon Lagoon", "The Battery Farm", "The Engine Room", "Fat Bear Mountain", "Rocky Hard Place", "Stinky Sewers", "Rat-O-Matic", "Give A Dog A Bonus", "Snow Joke", "Ice 'n' Easy Does It", "Penguin Playpen", "Pinball Blizzard", "Hoppa Choppa", "Something Fishy", "Walrace", "Jungle Japes", "Jungle Doldrums", "Swamp of Eternal Stench", "Weight For It", "Jungle Jumps", "Evo's Escape", "Fun in the Sun", "Hot Cross Buns", "Sting in the Tail", "Borassic Park", "Whirlwind Tour", "Shifting Sands", "Punch Up Pyramid", "Big Celebration Parade"],
+    "starting": true
+  },
+  "Smashing Start": {
+    "connects_to": ["Level Select"],
+    "requires": "|Smashing Start Access| AND {OptOne(|Dog|)}"
+  },
+  "Have A Nice Day": {
+    "connects_to": ["Level Select"],
+    "requires": "|Have A Nice Day Access| AND {OptOne(|Dog|)}"
+  },
+  "Honeymoon Lagoon": {
+    "connects_to": ["Level Select"],
+    "requires": "|Honeymoon Lagoon Access| AND {OptOne(|Racing Mouse|)}"
+  },
+  "The Battery Farm": {
+    "connects_to": ["Level Select"],
+    "requires": "|The Battery Farm Access| AND {OptOne(|Racing Mouse|)}"
+  },
+  "The Engine Room": {
+    "connects_to": ["Level Select"],
+    "requires": "|The Engine Room Access| AND {OptOne(|Racing Fox|)}"
+  },
+  "Fat Bear Mountain": {
+    "connects_to": ["Level Select"],
+    "requires": "|Fat Bear Mountain Access| AND {OptOne(|Racing Mouse|)}"
+  },
+  "Rocky Hard Place": {
+    "connects_to": ["Level Select"],
+    "requires": "|Rocky Hard Place Access| AND {OptOne(|Racing Fox|)}"
+  },
+  "Stinky Sewers": {
+    "connects_to": ["Level Select"],
+    "requires": "|Stinky Sewers Access| AND {OptOne(|Dog|)}"
+  },
+  "Rat-O-Matic": {
+    "connects_to": ["Level Select"],
+    "requires": "|Rat-O-Matic Access| AND {OptOne(|Rat|)}"
+  },
+  "Give A Dog A Bonus": {
+    "connects_to": ["Level Select"],
+    "requires": "|Give A Dog A Bonus Access| AND {OptOne(|Flying Dog|)}"
+  },
+  "Snow Joke": {
+    "connects_to": ["Level Select"],
+    "requires": "|Snow Joke Access| AND {OptOne(|Penguin|)}"
+  },
+  "Ice 'n' Easy Does It": {
+    "connects_to": ["Level Select"],
+    "requires": "|Ice 'n' Easy Does It Access| AND {OptOne(|Penguin|)}"
+  },
+  "Penguin Playpen": {
+    "connects_to": ["Level Select"],
+    "requires": "|Penguin Playpen Access| AND {OptOne(|Penguin|)}"
+  },
+  "Pinball Blizzard": {
+    "connects_to": ["Level Select"],
+    "requires": "|Pinball Blizzard Access| AND {OptOne(|Husky|)}"
+  },
+  "Hoppa Choppa": {
+    "connects_to": ["Level Select"],
+    "requires": "|Hoppa Choppa Access| AND {OptOne(|Penguin|)}"
+  },
+  "Something Fishy": {
+    "connects_to": ["Level Select"],
+    "requires": "|Something Fishy Access| AND {OptOne(|Cool Cod|)}"
+  },
+  "Walrace": {
+    "connects_to": ["Level Select"],
+    "requires": "|Walrace Access| AND {OptOne(|Walrus|)}"
+  },
+  "Jungle Japes": {
+    "connects_to": ["Level Select"],
+    "requires": "|Jungle Japes Access| AND {OptOne(|Tortoise Tank|)}"
+  },
+  "Jungle Doldrums": {
+    "connects_to": ["Level Select"],
+    "requires": "|Jungle Doldrums Access| AND {OptOne(|Hyena|)}"
+  },
+  "Swamp of Eternal Stench": {
+    "connects_to": ["Level Select"],
+    "requires": "|Swamp of Eternal Stench Access| AND {OptOne(|Racing Tortoise|)}"
+  },
+  "Weight For It": {
+    "connects_to": ["Level Select"],
+    "requires": "|Weight For It Access| AND {OptOne(|Lion|)}"
+  },
+  "Jungle Jumps": {
+    "connects_to": ["Level Select"],
+    "requires": "|Jungle Jumps Access| AND {OptOne(|Racing Tortoise|)}"
+  },
+  "Evo's Escape": {
+    "connects_to": ["Level Select"],
+    "requires": "|Evo's Escape Access| AND {OptOne(|Security Camera|)}"
+  },
+  "Fun in the Sun": {
+    "connects_to": ["Level Select"],
+    "requires": "|Fun in the Sun Access| AND {OptOne(|Armed Desert Fox|)}"
+  },
+  "Hot Cross Buns": {
+    "connects_to": ["Level Select"],
+    "requires": "|Hot Cross Buns Access| AND {OptOne(|Camel Tank|)}"
+  },
+  "Sting in the Tail": {
+    "connects_to": ["Level Select"],
+    "requires": "|Sting in the Tail Access| AND {OptOne(|Desert Fox|)}"
+  },
+  "Borassic Park": {
+    "connects_to": ["Level Select"],
+    "requires": "|Borassic Park Access| AND {OptOne(|Armed Desert Fox|)}"
+  },
+  "Whirlwind Tour": {
+    "connects_to": ["Level Select"],
+    "requires": "|Whirlwind Tour Access| AND {OptOne(|Camel Tank|)}"
+  },
+  "Shifting Sands": {
+    "connects_to": ["Level Select"],
+    "requires": "|Shifting Sands Access| AND {OptOne(|Desert Fox|)}"
+  },
+  "Punch Up Pyramid": {
+    "connects_to": ["Level Select"],
+    "requires": "|Punch Up Pyramid Access| AND {OptOne(|Kangaroo|)}"
+  },
+  "Big Celebration Parade": {
+    "connects_to": ["Level Select"],
+    "requires": "|Big Celebration Parade Access|"
+  }
+}

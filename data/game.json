@@ -1,0 +1,12 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "SpaceStationSiliconValleyGB",
+  "creator": "Xander",
+  "filler_item_name": "Power Cell",
+  "starting_items": [
+    {
+		"items": ["Smashing Start Access", "Dog"]
+	}
+  ],
+  "death_link": false
+}

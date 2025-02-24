@@ -1,0 +1,1031 @@
+[
+  {
+    "name": "Smashing Start - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptOne(|Sheep|)}",
+    "region": "Smashing Start"
+  },
+  {
+    "name": "Smashing Start - Trophy",
+    "category": [
+      "Trophy"
+    ],
+    "requires": [],
+    "region": "Smashing Start"
+  },
+  {
+    "name": "Have A Nice Day - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptAll(|Racing Mouse| AND |Sheep|)}",
+    "region": "Have A Nice Day"
+  },
+  {
+    "name": "Have A Nice Day - Trophy",
+    "category": [
+      "Trophy"
+    ],
+    "requires": "{OptOne(|Racing Mouse|)}",
+    "region": "Have A Nice Day"
+  },
+  {
+    "name": "Honeymoon Lagoon - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptOne(|Sheep|)}",
+    "region": "Honeymoon Lagoon"
+  },
+  {
+    "name": "Honeymoon Lagoon - Trophy",
+    "category": [
+      "Trophy"
+    ],
+    "requires": "{OptOne(|Sheep|)}",
+    "region": "Honeymoon Lagoon"
+  },
+  {
+    "name": "The Battery Farm - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptAll(|Sheep| AND |Racing Dog|)}",
+    "region": "The Battery Farm"
+  },
+  {
+    "name": "The Battery Farm - Trophy",
+    "category": [
+      "Trophy"
+    ],
+    "requires": "{OptAll(|Sheep| AND |Racing Dog|)}",
+    "region": "The Battery Farm"
+  },
+  {
+    "name": "Engine Room - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptOne(|Bear|)}",
+    "region": "The Engine Room"
+  },
+  {
+    "name": "Engine Room - Trophy",
+    "category": [
+      "Trophy"
+    ],
+    "requires": "{OptOne(|Racing Dog|)}",
+    "region": "The Engine Room"
+  },
+  {
+    "name": "Fat Bear Mountain - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptAll(|Ram| AND |Bear| AND |Sheep|)}",
+    "region": "Fat Bear Mountain"
+  },
+  {
+    "name": "Fat Bear Mountain - Trophy",
+    "category": [
+      "Trophy"
+    ],
+    "requires": [],
+    "region": "Fat Bear Mountain"
+  },
+  {
+    "name": "Rocky Hard Place - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptAll(|Spring Sheep| AND |Sheep|)}",
+    "region": "Rocky Hard Place"
+  },
+  {
+    "name": "Rocky Hard Place - Trophy",
+    "category": [
+      "Trophy"
+    ],
+    "requires": [],
+    "region": "Rocky Hard Place"
+  },
+  {
+    "name": "Stinky Sewers - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptAll(|Racing Fox| AND |Rat| AND |King Rat|)}",
+    "region": "Stinky Sewers"
+  },
+  {
+    "name": "Stinky Sewers - Trophy",
+    "category": [
+      "Trophy"
+    ],
+    "requires": [],
+    "region": "Stinky Sewers"
+  },
+  {
+    "name": "Rat-O-Matic - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptAll(|Racing Mouse| AND |Racing Fox|)}",
+    "region": "Rat-O-Matic"
+  },
+  {
+    "name": "Rat-O-Matic - Trophy",
+    "category": [
+      "Trophy"
+    ],
+    "requires": [],
+    "region": "Rat-O-Matic"
+  },
+  {
+    "name": "Snow Joke - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptAll(|Husky| AND |Rabbit|)}",
+    "region": "Snow Joke"
+  },
+  {
+    "name": "Snow Joke - Trophy",
+    "category": [
+      "Trophy"
+    ],
+    "requires": "{OptAll(|Husky| AND |Rabbit|)}",
+    "region": "Snow Joke"
+  },
+  {
+    "name": "Ice 'n' Easy Does It - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptOne(|Heli Rabbit|)}",
+    "region": "Ice 'n' Easy Does It"
+  },
+  {
+    "name": "Ice 'n' Easy Does It - Trophy",
+    "category": [
+      "Trophy"
+    ],
+    "requires": "{OptAll(|Walrus| AND |Heli Rabbit|)}",
+    "region": "Ice 'n' Easy Does It"
+  },
+  {
+    "name": "Penguin Playpen - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptAll(|Walrus| AND |Seagull| AND |Husky|)}",
+    "region": "Penguin Playpen"
+  },
+  {
+    "name": "Penguin Playpen - Trophy",
+    "category": [
+      "Trophy"
+    ],
+    "requires": "{OptAll(|Walrus| AND |Seagull|)}",
+    "region": "Penguin Playpen"
+  },
+  {
+    "name": "Pinball Blizzard - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptOne(|King Penguin|)}",
+    "region": "Pinball Blizzard"
+  },
+  {
+    "name": "Pinball Blizzard - Trophy",
+    "category": [
+      "Trophy"
+    ],
+    "requires": "{OptOne(|King Penguin|)}",
+    "region": "Pinball Blizzard"
+  },
+  {
+    "name": "Hoppa Choppa - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptAll(|King Penguin| AND |Heli Rabbit|)}",
+    "region": "Hoppa Choppa"
+  },
+  {
+    "name": "Hoppa Choppa - Trophy",
+    "category": [
+      "Trophy"
+    ],
+    "requires": "{OptAll(|King Penguin| AND |Heli Rabbit|)}",
+    "region": "Hoppa Choppa"
+  },
+  {
+    "name": "Something Fishy - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptOne(|Walrus|)}",
+    "region": "Something Fishy"
+  },
+  {
+    "name": "Something Fishy - Trophy",
+    "category": [
+      "Trophy"
+    ],
+    "requires": [],
+    "region": "Something Fishy"
+  },
+  {
+    "name": "Jungle Japes - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptAll(|Elephant| AND |Piranha|)}",
+    "region": "Jungle Japes"
+  },
+  {
+    "name": "Jungle Japes - Trophy",
+    "category": [
+      "Trophy"
+    ],
+    "requires": "{OptAll(|Elephant| AND |Hyena|)}",
+    "region": "Jungle Japes"
+  },
+  {
+    "name": "Jungle Doldrums - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptAll(|Hippo| AND |Parrot|)}",
+    "region": "Jungle Doldrums"
+  },
+  {
+    "name": "Jungle Doldrums - Trophy",
+    "category": [
+      "Trophy"
+    ],
+    "requires": "{OptAll(|Hippo| AND |Parrot|)}",
+    "region": "Jungle Doldrums"
+  },
+  {
+    "name": "Swamp of Eternal Stench - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptAll(|Hyena| AND |Gorilla|)}",
+    "region": "Swamp of Eternal Stench"
+  },
+  {
+    "name": "Swamp of Eternal Stench - Trophy",
+    "category": [
+      "Trophy"
+    ],
+    "requires": "{OptAll(|Hyena| AND |Gorilla|)}",
+    "region": "Swamp of Eternal Stench"
+  },
+  {
+    "name": "Weight For It - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptAll(|Hyena| AND |Elephant| AND |Parrot|)}",
+    "region": "Weight For It"
+  },
+  {
+    "name": "Jungle Jumps - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptAll(|Racing Hyena| AND |Chameleon| AND |Gorilla|)}",
+    "region": "Jungle Jumps"
+  },
+  {
+    "name": "Fun in the Sun - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptAll(|Camel| AND |Vulture|)}",
+    "region": "Fun in the Sun"
+  },
+  {
+    "name": "Fun in the Sun - Trophy",
+    "category": [
+      "Trophy"
+    ],
+    "requires": "{OptOne(|Camel|)}",
+    "region": "Fun in the Sun"
+  },
+  {
+    "name": "Hot Cross Buns - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptAll(|Desert Fox| AND |Vulture| AND |Scorpion|)}",
+    "region": "Hot Cross Buns"
+  },
+  {
+    "name": "Hot Cross Buns - Trophy",
+    "category": [
+      "Trophy"
+    ],
+    "requires": "{OptAll(|Desert Fox| AND |Vulture| AND |Scorpion|)}",
+    "region": "Hot Cross Buns"
+  },
+  {
+    "name": "Sting in the Tail - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptAll(|Kangaroo| AND |Vulture|)}",
+    "region": "Sting in the Tail"
+  },
+  {
+    "name": "Sting in the Tail - Trophy",
+    "category": [
+      "Trophy"
+    ],
+    "requires": [],
+    "region": "Sting in the Tail"
+  },
+  {
+    "name": "Borassic Park - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptAll(|Kangaroo| AND |Vulture|)}",
+    "region": "Borassic Park"
+  },
+  {
+    "name": "Borassic Park - Trophy",
+    "category": [
+      "Trophy"
+    ],
+    "requires": "{OptOne(|Kangaroo|)}",
+    "region": "Borassic Park"
+  },
+  {
+    "name": "Whirlwind Tour - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptAll(|Armed Desert Fox| AND |Kangaroo| AND |Vulture|)}",
+    "region": "Whirlwind Tour"
+  },
+  {
+    "name": "Whirlwind Tour - Trophy",
+    "category": [
+      "Trophy"
+    ],
+    "requires": "{OptAll(|Armed Desert Fox| AND |Kangaroo| AND |Vulture|)}",
+    "region": "Whirlwind Tour"
+  },
+  {
+    "name": "Shifting Sands - Level Complete",
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{OptAll(|Pogo Kangaroo| AND |Vulture|)}",
+    "region": "Shifting Sands"
+  },
+  {
+    "name": "Shifting Sands - Trophy",
+    "category": [
+      "Trophy"
+    ],
+    "requires": [],
+    "region": "Shifting Sands"
+  },
+  {
+    "name": "Give A Dog A Bonus - Level Complete",
+    "category": [
+      "Level Completion",
+      "Continent Complete"
+    ],
+    "requires": [],
+    "region": "Give A Dog A Bonus"
+  },
+  {
+    "name": "Walrace - Level Complete",
+    "category": [
+      "Level Completion",
+      "Continent Complete"
+    ],
+    "requires": [],
+    "region": "Walrace"
+  },
+  {
+    "name": "Evo's Escape - Level Complete",
+    "category": [
+      "Level Completion",
+      "Continent Complete"
+    ],
+    "requires": [],
+    "region": "Evo's Escape"
+  },
+  {
+    "name": "Punch Up Pyramid - Level Complete",
+    "category": [
+      "Level Completion",
+      "Continent Complete"
+    ],
+    "requires": [],
+    "region": "Punch Up Pyramid"
+  },
+  {
+    "name": "Big Celebration Parade - Level Complete",
+    "victory": true,
+    "category": [
+      "Level Completion"
+    ],
+    "requires": "{YamlDisabled(evo_unlocks_bcp)} OR |@Evo Parts:4|",
+    "region": "Big Celebration Parade"
+  },
+  {
+    "name": "Smashing Start - Lower Sheep",
+    "region": "Smashing Start",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Smashing Start - Upper Sheep",
+    "region": "Smashing Start",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Have A Nice Day - Sheep",
+    "region": "Have A Nice Day",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Honeymoon Lagoon - Sheep",
+    "region": "Honeymoon Lagoon",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Battery Farm - Sheep",
+    "region": "The Battery Farm",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Battery Farm - Racing Dog",
+    "region": "The Battery Farm",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|Sheep|)}"
+  },
+  {
+    "name": "The Battery Farm - Fox",
+    "region": "The Battery Farm",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptAll(|Sheep| AND |Racing Dog|)}"
+  },
+  {
+    "name": "The Engine Room - Racing Dog",
+    "region": "The Engine Room",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Engine Room - Bear",
+    "region": "The Engine Room",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|Racing Dog|)}"
+  },
+  {
+    "name": "The Engine Room - Rat",
+    "region": "The Engine Room",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|Racing Dog|)}"
+  },
+  {
+    "name": "Fat Bear Mountain - Ram",
+    "region": "Fat Bear Mountain",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|Racing Dog|)}"
+  },
+  {
+    "name": "Fat Bear Mountain - Racing Dog",
+    "region": "Fat Bear Mountain",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|Ram|)}"
+  },
+  {
+    "name": "Fat Bear Mountain - Sheep",
+    "region": "Fat Bear Mountain",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fat Bear Mountain - Bear",
+    "region": "Fat Bear Mountain",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|Racing Dog|)}"
+  },
+  {
+    "name": "Rocky Hard Place - Sheep 1",
+    "region": "Rocky Hard Place",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Rocky Hard Place - Sheep 2",
+    "region": "Rocky Hard Place",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Rocky Hard Place - Spring Sheep",
+    "region": "Rocky Hard Place",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Stinky Sewers - Rat",
+    "region": "Stinky Sewers",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Stinky Sewers - Fox",
+    "region": "Stinky Sewers",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Stinky Sewers - King Rat",
+    "region": "Stinky Sewers",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|Racing Fox|)}"
+  },
+  {
+    "name": "Rat-O-Matic - Inner Fox",
+    "region": "Rat-O-Matic",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Rat-O-Matic - Outer Fox",
+    "region": "Rat-O-Matic",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Rat-O-Matic - Racing Mouse",
+    "region": "Rat-O-Matic",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Rat-O-Matic - Machine Rat",
+    "region": "Rat-O-Matic",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|Racing Mouse|)}"
+  },
+  {
+    "name": "Snow Joke - Husky",
+    "region": "Snow Joke",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Snow Joke - Rabbit",
+    "region": "Snow Joke",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|Husky|)}"
+  },
+  {
+    "name": "Ice 'n' Easy Does It - Rabbit",
+    "region": "Ice 'n' Easy Does It",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ice 'n' Easy Does It - Heli Rabbit",
+    "region": "Ice 'n' Easy Does It",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|Rabbit|)}"
+  },
+  {
+    "name": "Ice 'n' Easy Does It - Walrus",
+    "region": "Ice 'n' Easy Does It",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptAll(|Rabbit| AND |Heli Rabbit|)}"
+  },
+  {
+    "name": "Penguin Playpen - Husky",
+    "region": "Penguin Playpen",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|Walrus|)}"
+  },
+  {
+    "name": "Penguin Playpen - Polar Bear",
+    "region": "Penguin Playpen",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptAll(|Husky| AND |Walrus|)}"
+  },
+  {
+    "name": "Penguin Playpen - Seagull",
+    "region": "Penguin Playpen",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptAll(|Husky| AND |Walrus|)}"
+  },
+  {
+    "name": "Hoppa Choppa - Heli Rabbit",
+    "region": "Hoppa Choppa",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|King Penguin|)}"
+  },
+  {
+    "name": "Hoppa Choppa - Left Husky",
+    "region": "Hoppa Choppa",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptAll(|Heli Rabbit| AND |King Penguin|)}"
+  },
+  {
+    "name": "Hoppa Choppa - Right Husky",
+    "region": "Hoppa Choppa",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptAll(|Heli Rabbit| AND |King Penguin|)}"
+  },
+  {
+    "name": "Hoppa Choppa - Rabbit",
+    "region": "Hoppa Choppa",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptAll(|Heli Rabbit| AND |King Penguin|)}"
+  },
+  {
+    "name": "Something Fishy - Walrus",
+    "region": "Something Fishy",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Jungle Japes - Elephant",
+    "region": "Jungle Japes",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Jungle Japes - Hyena",
+    "region": "Jungle Japes",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|Elephant|)}"
+  },
+  {
+    "name": "Jungle Japes - Higher Piranha",
+    "region": "Jungle Japes",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|Elephant|)}"
+  },
+  {
+    "name": "Jungle Japes - Lower Piranha",
+    "region": "Jungle Japes",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|Elephant|)}"
+  },
+  {
+    "name": "Jungle Doldrums - Hippo",
+    "region": "Jungle Doldrums",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Jungle Doldrums - Parrot",
+    "region": "Jungle Doldrums",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Swamp of Eternal Stench - Hyena",
+    "region": "Swamp of Eternal Stench",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Swamp of Eternal Stench - Gorilla",
+    "region": "Swamp of Eternal Stench",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|Gorilla|)}"
+  },
+  {
+    "name": "Weight For It - Hyena",
+    "region": "Weight For It",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Weight For It - Gorilla",
+    "region": "Weight For It",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Weight For It - Piranha",
+    "region": "Weight For It",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|Hyena|)} OR {OptOne(|Gorilla|)}"
+  },
+  {
+    "name": "Weight For It - Parrot",
+    "region": "Weight For It",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|Hyena|)}"
+  },
+  {
+    "name": "Jungle Jumps - Chameleon",
+    "region": "Jungle Jumps",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Jungle Jumps - Racing Hyena 1",
+    "region": "Jungle Jumps",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|Chameleon|)}"
+  },
+  {
+    "name": "Jungle Jumps - Racing Hyena 2",
+    "region": "Jungle Jumps",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|Chameleon|)}"
+  },
+  {
+    "name": "Jungle Jumps - Gorilla",
+    "region": "Jungle Jumps",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptAll(|Chameleon| AND |Racing Hyena|)}"
+  },
+  {
+    "name": "Fun in the Sun - Camel",
+    "region": "Fun in the Sun",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fun in the Sun - Outer Armed Desert Fox",
+    "region": "Fun in the Sun",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fun in the Sun - Inner Armed Desert Fox",
+    "region": "Fun in the Sun",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|Camel|)}"
+  },
+  {
+    "name": "Fun in the Sun - Vulture",
+    "region": "Fun in the Sun",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|Camel|)}"
+  },
+  {
+    "name": "Hot Cross Buns - Outer Desert Fox",
+    "region": "Hot Cross Buns",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hot Cross Buns - Vulture",
+    "region": "Hot Cross Buns",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hot Cross Buns - Scorpion",
+    "region": "Hot Cross Buns",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptAll(|Desert Fox| AND |Vulture|)}"
+  },
+  {
+    "name": "Hot Cross Buns - Burrow Desert Fox",
+    "region": "Hot Cross Buns",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptAll(|Desert Fox| AND |Vulture| AND |Scorpion|)}"
+  },
+  {
+    "name": "Sting in the Tail - Left Scorpion 1",
+    "region": "Sting in the Tail",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sting in the Tail - Middle Scorpion 2",
+    "region": "Sting in the Tail",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sting in the Tail - Right Scorpion 3",
+    "region": "Sting in the Tail",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sting in the Tail - Kangaroo",
+    "region": "Sting in the Tail",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sting in the Tail - Vulture",
+    "region": "Sting in the Tail",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|Kangaroo|)}"
+  },
+  {
+    "region": "Borassic Park",
+    "name": "Borassic Park - Kangaroo",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Borassic Park - Vulture",
+    "region": "Borassic Park",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|Kangaroo|)}"
+  },
+  {
+    "name": "Whirlwind Tour - Armed Desert Fox",
+    "region": "Whirlwind Tour",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Whirlwind Tour - Kangaroo",
+    "region": "Whirlwind Tour",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|Armed Desert Fox|)}"
+  },
+  {
+    "name": "Whirlwind Tour - Vulture",
+    "region": "Whirlwind Tour",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptAll(|Armed Desert Fox| AND |Kangaroo|)}"
+  },
+  {
+    "name": "Shifting Sands - Pogo Kangaroo",
+    "region": "Shifting Sands",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Shifting Sands - Vulture",
+    "region": "Shifting Sands",
+    "category": [
+      "Animal Checks"
+    ],
+    "requires": "{OptOne(|Pogo Kangaroo|)}"
+  }
+]
