@@ -5,13 +5,13 @@
   "filler_item_name": "Power Cell",
   "starting_items": [
     {
-		"items": ["Smashing Start Access"],
+		"items": ["Smashing Start Access", "Dog"],
 		"yaml_option": ["!random_starting_level"]
 	},
 	{
 		"item_categories": ["Level Access"],
 		"yaml_option":["random_starting_level"],
-		"random": 1
+		"random": 5
 	},
 	{
 		"if_previous_item": ["Smashing Start", "Have A Nice Day", "Stinky Sewers"],
@@ -30,10 +30,6 @@
 		"items": ["Rat"]
 	},
 	{
-		"if_previous_item": ["Give A Dog A Bonus"],
-		"items": ["Flying Dog"]
-	},
-	{
 		"if_previous_item": ["Snow Joke", "Ice 'n' Easy Does It", "Pinball Blizzard"],
 		"items": ["Husky"]
 	},
@@ -44,10 +40,6 @@
 	{
 		"if_previous_item": ["Something Fishy"],
 		"items": ["Cool Cod"]
-	},
-	{
-		"if_previous_item": ["Walrace"],
-		"items": ["Walrus"]
 	},
 	{
 		"if_previous_item": ["Jungle Japes"],
@@ -66,10 +58,6 @@
 		"items": ["Lion"]
 	},
 	{
-		"if_previous_item": ["Evo's Escape"],
-		"items": ["Security Camera"]
-	},
-	{
 		"if_previous_item": ["Fun in the Sun", "Borassic Park"],
 		"items": ["Armed Desert Fox"]
 	},
@@ -80,10 +68,6 @@
 	{
 		"if_previous_item": ["Sting in the Tail", "Shifting Sands"],
 		"items": ["Desert Fox"]
-	},
-	{
-		"if_previous_item": ["Punch Up Pyramid"],
-		"items": ["Kangaroo"]
 	}
   ],
   "death_link": false

@@ -9,7 +9,7 @@
       "shuffle_playable_animals"
     ]
   },
-  "Shuffle Power Cells": {
+  "Power Cells": {
     "hidden": true,
     "yaml_option": [
       "shuffle_power_cells"

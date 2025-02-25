@@ -48,7 +48,7 @@ class EvoUnlocksBCP(Toggle):
 	display_name = "BCP Requires Evo Parts"
 
 class RandomStartingLevel(Toggle):
-	"""Randomizes the starting level (and animal to fit the level if Animals are shuffled).
+	"""Randomizes the starting level (and animal to fit the level if Animals are shuffled). For generation purposes, currently set to be 5 levels start.
 	"""
 	display_name = "Randomize Starting Level"
 

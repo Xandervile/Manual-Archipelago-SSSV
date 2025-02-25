@@ -67,7 +67,7 @@
     "count": 1,
     "name": "Give A Dog A Bonus Access",
     "category": [
-      "Level Access"
+      "Boss Level Access"
     ],
     "progression": true
   },
@@ -123,7 +123,7 @@
     "count": 1,
     "name": "Walrace Access",
     "category": [
-      "Level Access"
+      "Boss Level Access"
     ],
     "progression": true
   },
@@ -171,7 +171,7 @@
     "count": 1,
     "name": "Evo's Escape Access",
     "category": [
-      "Level Access"
+      "Boss Level Access"
     ],
     "progression": true
   },
@@ -227,7 +227,7 @@
     "count": 1,
     "name": "Punch Up Pyramid Access",
     "category": [
-      "Level Access"
+      "Boss Level Access"
     ],
     "progression": true
   },

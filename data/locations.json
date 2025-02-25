@@ -1027,5 +1027,381 @@
       "Animal Checks"
     ],
     "requires": "{OptOne(|Pogo Kangaroo|)}"
+  },
+  {
+	"name": "Smashing Start - Lower Power Cell",
+	"region": "Smashing Start",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Smashing Start - Waterfall Power Cell",
+	"region": "Smashing Start",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Smashing Start - Highest Power Cell",
+	"region": "Smashing Start",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Have A Nice Day - Left Power Cell",
+	"region": "Have A Nice Day",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Have A Nice Day - Right Power Cell",
+	"region": "Have A Nice Day",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptOne(|Sheep|)}"
+  },
+  {
+	"name": "Honeymoon Lagoon - Lower Left Power Cell",
+	"region": "Honeymoon Lagoon",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Honeymoon Lagoon - Lower Right Power Cell",
+	"region": "Honeymoon Lagoon",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Honeymoon Lagoon - Upper Left Power Cell",
+	"region": "Honeymoon Lagoon",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Honeymoon Lagoon - Upper Right Power Cell",
+	"region": "Honeymoon Lagoon",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Honeymoon Lagoon - Near Trophy Spawn Power Cell",
+	"region": "Honeymoon Lagoon",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptOne(|Sheep|)}"
+  },
+  {
+	"name": "The Battery Farm - Left Barn Power Cell",
+	"region": "The Battery Farm",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "The Battery Farm - Middle Barn Power Cell",
+	"region": "The Battery Farm",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "The Battery Farm - Right Barn Power Cell",
+	"region": "The Battery Farm",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "The Battery Farm - Bridge Power Cell",
+	"region": "The Battery Farm",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptOne(|Sheep|)}"
+  },
+  {
+	"name": "The Battery Farm - House Power Cell",
+	"region": "The Battery Farm",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptOne(|Sheep|)}"
+  },
+  {
+	"name": "The Engine Room - Spawn Power Cell",
+	"region": "The Engine Room",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "The Engine Room - Main Room Lower Power Cell",
+	"region": "The Engine Room",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "The Engine Room - Main Room Upper Power Cell",
+	"region": "The Engine Room",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "The Engine Room - Bridge Room Right Power Cell",
+	"region": "The Engine Room",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptAll(|Bear| AND |Racing Dog|)}"
+  },
+  {
+	"name": "The Engine Room - Bridge Room Left Power Cell",
+	"region": "The Engine Room",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptAll(|Bear| AND |Racing Dog|)}"
+  },
+  {
+	"name": "Fat Bear Mountain - Switch Mountain Power Cell",
+	"region": "Fat Bear Mountain",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Fat Bear Mountain - Mountain Floor Power Cell",
+	"region": "Fat Bear Mountain",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Fat Bear Mountain - Slope Room Power Cell",
+	"region": "Fat Bear Mountain",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Fat Bear Mountain - Bear Room Power Cell",
+	"region": "Fat Bear Mountain",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Rocky Hard Place - Elevator Power Cell",
+	"region": "Rocky Hard Place",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Rocky Hard Place - Past Raised Rocks Power Cell",
+	"region": "Rocky Hard Place",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Rocky Hard Place - Top of Mountain Power Cell",
+	"region": "Rocky Hard Place",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Rocky Hard Place - Near Raising Rocks Switch Power Cell",
+	"region": "Rocky Hard Place",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptOne(|Sheep|)}"
+  },
+  {
+	"name": "Stinky Sewers - Elevator Room Power Cell",
+	"region": "Stinky Sewers",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptOne(|Rat|)}"
+  },
+  {
+	"name": "Stinky Sewers - Switch Puzzle Power Cell",
+	"region": "Stinky Sewers",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptAll(|Rat| AND |Racing Fox|)}"
+  },
+  {
+	"name": "Rat-O-Matic - Outside Power Cell",
+	"region": "Rat-O-Matic",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Rat-O-Matic - Mouse Room Power Cell",
+	"region": "Rat-O-Matic",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptOne(|Racing Fox|)}"
+  },
+  {
+	"name": "Rat-O-Matic - Inside the Machine Power Cell 1",
+	"region": "Rat-O-Matic",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptAll(|Racing Fox| AND |Racing Mouse|)}"
+  },
+  {
+	"name": "Rat-O-Matic - Inside the Machine Power Cell 2",
+	"region": "Rat-O-Matic",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptAll(|Racing Fox| AND |Racing Mouse|)}"
+  },
+  {
+	"name": "Rat-O-Matic - Computers Upper Power Cell",
+	"region": "Rat-O-Matic",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptAll(|Racing Fox| AND |Racing Mouse|)}"
+  },
+  {
+	"name": "Rat-O-Matic - Computers Lower Power Cell",
+	"region": "Rat-O-Matic",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptAll(|Racing Fox| AND |Racing Mouse|)}"
+  },
+  {
+	"name": "Snow Joke - Upper Power Cell",
+	"region": "Snow Joke",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Ice 'n' Easy Does It - Far Right Power Cell",
+	"region": "Ice 'n' Easy Does It",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptOne(|Rabbit|)}"
+  },
+  {
+	"name": "Ice 'n' Easy Does It - Walrus Cave Power Cell",
+	"region": "Ice 'n' Easy Does It",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptOne(|Rabbit| AND |Heli Rabbit| AND |Walrus|)}"
+  },
+  {
+	"name": "Penguin Playpen - Main Area Bottom Right Corner Power Cell",
+	"region": "Penguin Playpen",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptOne(|Walrus|)}"
+  },
+  {
+	"name": "Penguin Playpen - Main Area Top Right Power Cell",
+	"region": "Penguin Playpen",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptAll(|Walrus| AND |Husky| AND |Polar Bear| AND |Seagull|)}"
+  },
+  {
+	"name": "Pinball Blizzard - First Area Lower Power Cell",
+	"region": "Pinball Blizzard",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptOne(|King Penguin|)}"
+  },
+  {
+	"name": "Pinball Blizzard - First Area Upper Power Cell",
+	"region": "Pinball Blizzard",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptOne(|King Penguin|)}"
+  },
+  {
+	"name": "Hoppa Choppa - First Area Upper Right Corner Power Cell",
+	"region": "Hoppa Choppa",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptOne(|King Penguin|)}"
+  },
+  {
+	"name": "Hoppa Choppa - Main Area Upper Right Corner Power Cell",
+	"region": "Hoppa Choppa",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptOne(|King Penguin|)}"
+  },
+  {
+	"name": "Something Fishy - Switch Room Bottom Right Power Cell",
+	"region": "Something Fishy",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Something Fishy - Final Room Top Right Power Cell",
+	"region": "Something Fishy",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptOne(|Walrus|)}"
   }
 ]
