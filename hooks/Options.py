@@ -47,6 +47,10 @@ class EvoUnlocksBCP(Toggle):
 	"""
 	display_name = "BCP Requires Evo Parts"
 
+class RandomStartingLevel(Toggle):
+	"""Randomizes the starting level (and animal to fit the level if Animals are shuffled).
+	"""
+	display_name = "Randomize Starting Level"
 
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
@@ -59,6 +63,7 @@ def after_options_defined(options: dict) -> dict:
         'animal_kill_checks': AnimalKill,
         'shuffle_playable_animals': ShuffleAnimals,
         'shuffle_power_cells': ShufflePowerCells,
-        'evo_unlocks_bcp': EvoUnlocksBCP
+        'evo_unlocks_bcp': EvoUnlocksBCP,
+        'random_starting_level': RandomStartingLevel
     })
     return options
