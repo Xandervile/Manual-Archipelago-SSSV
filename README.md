@@ -10,5 +10,5 @@ Features:
 Future Ideas:
 - Shuffle Power Cells (Possible, need to massively add logic and naming conventions here)
 - Shuffle Energy Cells (Possible, need to find them all)
-- Shuffle starting level and animal (Possible, I need to get good and learn this)
+- Shuffle starting level and animal (Undergoing testing)
 - Shuffle Monitors as checks
