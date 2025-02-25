@@ -10,7 +10,8 @@
 	},
 	{
 		"item_categories": ["Level Access"],
-		"yaml_option":["random_starting_level"]
+		"yaml_option":["random_starting_level"],
+		"random": 1
 	},
 	{
 		"if_previous_item": ["Smashing Start", "Have A Nice Day", "Stinky Sewers"],
