@@ -5,7 +5,84 @@
   "filler_item_name": "Power Cell",
   "starting_items": [
     {
-		"items": ["Smashing Start Access", "Dog"]
+		"items": ["Smashing Start Access"],
+		"yaml_option": ["!random_starting_level"]
+	},
+	{
+		"items": ["Level Access"],
+		"yaml_option":["random_starting_level"]
+	},
+	{
+		"if_previous_item": ["Smashing Start", "Have A Nice Day", "Stinky Sewers"],
+		"items": ["Dog"]
+	},
+	{
+		"if_previous_item": ["Honeymoon Lagoon", "The Battery Farm"],
+		"items": ["Racing Mouse"]
+	},
+	{
+		"if_previous_item": ["The Engine Room", "Rocky Hard Place"],
+		"items": ["Racing Fox"]
+	},
+	{
+		"if_previous_item": ["Rat-O-Matic"],
+		"items": ["Rat"]
+	},
+	{
+		"if_previous_item": ["Give A Dog A Bonus"],
+		"items": ["Flying Dog"]
+	},
+	{
+		"if_previous_item": ["Snow Joke", "Ice 'n' Easy Does It", "Pinball Blizzard"],
+		"items": ["Husky"]
+	},
+	{
+		"if_previous_item": ["Penguin Playpen", "Hoppa Choppa"],
+		"items": ["Penguin"]
+	},
+	{
+		"if_previous_item": ["Something Fishy"],
+		"items": ["Cool Cod"]
+	},
+	{
+		"if_previous_item": ["Walrace"],
+		"items": ["Walrus"]
+	},
+	{
+		"if_previous_item": ["Jungle Japes"],
+		"items": ["Tortoise Tank"]
+	},
+	{
+		"if_previous_item": ["Jungle Doldrums"],
+		"items": ["Hyena"]
+	},
+	{
+		"if_previous_item": ["Swamp of Eternal Stench", "Jungle Jumps"],
+		"items": ["Racing Tortoise"]
+	},
+	{
+		"if_previous_item": ["Weight For It"],
+		"items": ["Lion"]
+	},
+	{
+		"if_previous_item": ["Evo's Escape"],
+		"items": ["Security Camera"]
+	},
+	{
+		"if_previous_item": ["Fun in the Sun", "Borassic Park"],
+		"items": ["Armed Desert Fox"]
+	},
+	{
+		"if_previous_item": ["Hot Cross Buns", "Whirlwind Tour"],
+		"items": ["Camel Tank"]
+	},
+	{
+		"if_previous_item": ["Sting in the Tail", "Shifting Sands"],
+		"items": ["Desert Fox"]
+	},
+	{
+		"if_previous_item": ["Punch Up Pyramid"],
+		"items": ["Kangaroo"]
 	}
   ],
   "death_link": false
