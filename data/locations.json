@@ -180,7 +180,7 @@
     "category": [
       "Level Completion"
     ],
-    "requires": "{OptAll(|Walrus| AND |Seagull| AND |Husky|)}",
+    "requires": "{OptAll(|Walrus| AND |Seagull| AND |Skiing Husky|)}",
     "region": "Penguin Playpen"
   },
   {
@@ -188,7 +188,7 @@
     "category": [
       "Trophy"
     ],
-    "requires": "{OptAll(|Walrus| AND |Seagull|)}",
+    "requires": "{OptAll(|Walrus| AND |Seagull| AND |Skiing Husky|)}",
     "region": "Penguin Playpen"
   },
   {
@@ -677,7 +677,7 @@
     "requires": "{OptAll(|Rabbit| AND |Heli Rabbit|)}"
   },
   {
-    "name": "Penguin Playpen - Husky",
+    "name": "Penguin Playpen - Skiing Husky",
     "region": "Penguin Playpen",
     "category": [
       "Animal Checks"
@@ -690,7 +690,7 @@
     "category": [
       "Animal Checks"
     ],
-    "requires": "{OptAll(|Husky| AND |Walrus|)}"
+    "requires": "{OptAll(|Skiing Husky| AND |Walrus|)}"
   },
   {
     "name": "Penguin Playpen - Seagull",
@@ -698,7 +698,7 @@
     "category": [
       "Animal Checks"
     ],
-    "requires": "{OptAll(|Husky| AND |Walrus|)}"
+    "requires": "{OptAll(|Skiing Husky| AND |Walrus|)}"
   },
   {
     "name": "Hoppa Choppa - Heli Rabbit",
@@ -1354,7 +1354,7 @@
 	"category": [
 	  "Power Cells"
 	],
-	"requires": "{OptAll(|Walrus| AND |Husky| AND |Polar Bear| AND |Seagull|)}"
+	"requires": "{OptAll(|Walrus| AND |Skiing Husky| AND |Polar Bear| AND |Seagull|)}"
   },
   {
 	"name": "Pinball Blizzard - First Area Lower Power Cell",

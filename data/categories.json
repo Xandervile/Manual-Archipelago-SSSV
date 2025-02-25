@@ -10,7 +10,6 @@
     ]
   },
   "Power Cells": {
-    "hidden": true,
     "yaml_option": [
       "shuffle_power_cells"
     ]
@@ -22,6 +21,7 @@
 	]
   },
   "Randomize Starting Level": {
+	"hidden": true,
 	"yaml_option": [
 	  "random_starting_level"
 	]
