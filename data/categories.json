@@ -20,5 +20,10 @@
 	"yaml_option": [
 	  "evo_unlocks_bcp"
 	]
+  },
+  "Randomize Starting Level": {
+	"yaml_option": [
+	  "random_starting_level"
+	]
   }
 }
