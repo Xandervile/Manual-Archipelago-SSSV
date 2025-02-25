@@ -9,7 +9,7 @@
 		"yaml_option": ["!random_starting_level"]
 	},
 	{
-		"items": ["Level Access"],
+		"item_categories": ["Level Access"],
 		"yaml_option":["random_starting_level"]
 	},
 	{
