@@ -14,6 +14,11 @@
       "shuffle_power_cells"
     ]
   },
+  "Monitors": {
+    "yaml_option": [
+      "shuffle_monitors"
+    ]
+  },
   "Evo Parts unlock BCP": {
 	"hidden": true,
 	"yaml_option": [

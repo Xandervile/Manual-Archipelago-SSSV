@@ -1403,5 +1403,341 @@
 	  "Power Cells"
 	],
 	"requires": "{OptOne(|Walrus|)}"
+  },
+  {
+	"name": "Jungle Japes - On Hot Machine Power Cell",
+	"region": "Jungle Japes",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptAll(|Elephant| AND |Hyena|)}"
+  },
+  {
+	"name": "Jungle Japes - Ledge Before Trophy Power Cell",
+	"region": "Jungle Japes",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptAll(|Elephant| AND |Hyena|)}"
+  },
+  {
+	"name": "Jungle Japes - Ledge After Trophy Power Cell",
+	"region": "Jungle Japes",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptAll(|Elephant| AND |Hyena|)}"
+  },
+  {
+	"name": "Jungle Doldrums - Near Hippo Power Cell",
+	"region": "Jungle Doldrums",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Swamp of Eternal Stench - Left Waste Pipe Power Cell",
+	"region": "Swamp of Eternal Stench",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Swamp of Eternal Stench - Right Waste Pipe Power Cell",
+	"region": "Swamp of Eternal Stench",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Swamp of Eternal Stench - Narrow Platforms Power Cell",
+	"region": "Swamp of Eternal Stench",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptAll(|Hyena| AND |Gorilla|)}"
+  },
+  {
+	"name": "Swamp of Eternal Stench - Before Elevators Power Cell",
+	"region": "Swamp of Eternal Stench",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptAll(|Hyena| AND |Gorilla|)}"
+  },
+  {
+	"name": "Weight For It - Near Teleporter Power Cell",
+	"region": "Weight For It",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptAll(|Hyena| AND |Parrot|)} OR {OptAll(|Hyena| AND |Piranha|)}"
+  },
+  {
+	"name": "Jungle Jumps - Hole By Start Power Cell",
+	"region": "Jungle Jumps",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Jungle Jumps - Hole by Chameleon Power Cell",
+	"region": "Jungle Jumps",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Fun in the Sun - Left from Spawn Power Cell",
+	"region": "Fun in the Sun",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Fun in the Sun - High in Sky Power Cell",
+	"region": "Fun in the Sun",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptAll(|Camel| AND |Vulture|)}"
+  },
+  {
+	"name": "Hot Cross Buns - Near Spawn Power Cell",
+	"region": "Hot Cross Buns",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptOne(|Vulture|)}"
+  },
+  {
+	"name": "Hot Cross Buns - Near Exit Power Cell",
+	"region": "Hot Cross Buns",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptOne(|Vulture|)}"
+  },
+  {
+	"name": "Sting in the Tail - Near Kangaroo Power Cell",
+	"region": "Sting in the Tail",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Sting in the Tail - Sky Above Camera Power Cell",
+	"region": "Sting in the Tail",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptAll(|Kangaroo| AND |Vulture|)}"
+  },
+  {
+	"name": "Borassic Park - Near Vulture Power Cell",
+	"region": "Borassic Park",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptOne(|Kangaroo|)}"
+  },
+  {
+	"name": "Borassic Park - Far Right Sky Power Cell",
+	"region": "Borassic Park",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptAll(|Kangaroo| AND |Vulture|)}"
+  },
+  {
+	"name": "Whirlwind Tour - Far Left Sky Power Cell",
+	"region": "Whirlwind Tour",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptAll(|Kangaroo| AND |Vulture|)}"
+  },
+  {
+	"name": "Whirlwind Tour - Trophy Pipe Power Cell",
+	"region": "Whirlwind Tour",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptAll(|Kangaroo| AND |Vulture|)}"
+  },
+  {
+	"name": "Smashing Start - Monitor",
+	"region": "Smashing Start",
+	"category": [
+	  "Monitors"
+	],
+	"requires": []
+  },
+  {
+	"name": "Have A Nice Day - Monitor",
+	"region": "Have A Nice Day",
+	"category": [
+	  "Monitors"
+	],
+	"requires": []
+  },
+  {
+	"name": "Honeymoon Lagoon - Monitor",
+	"region": "Honeymoon Lagoon",
+	"category": [
+	  "Monitors"
+	],
+	"requires": []
+  },
+  {
+	"name": "The Engine Room - Monitor",
+	"region": "The Engine Room",
+	"category": [
+	  "Monitors"
+	],
+	"requires": []
+  },
+  {
+	"name": "Fat Bear Mountain - Monitor",
+	"region": "Fat Bear Mountain",
+	"category": [
+	  "Monitors"
+	],
+	"requires": []
+  },
+  {
+	"name": "Rocky Hard Place - Monitor",
+	"region": "Rocky Hard Place",
+	"category": [
+	  "Monitors"
+	],
+	"requires": []
+  },
+  {
+	"name": "Rat-O-Matic - Monitor",
+	"region": "Rat-O-Matic",
+	"category": [
+	  "Monitors"
+	],
+	"requires": []
+  },
+  {
+	"name": "Snow Joke - Monitor",
+	"region": "Snow Joke",
+	"category": [
+	  "Monitors"
+	],
+	"requires": []
+  },
+  {
+	"name": "Ice 'n' Easy Does It - Monitor",
+	"region": "Ice 'n' Easy Does It",
+	"category": [
+	  "Monitors"
+	],
+	"requires": "{OptOne(|Rabbit|)}"
+  },
+  {
+	"name": "Something Fishy - Monitor",
+	"region": "Something Fishy",
+	"category": [
+	  "Monitors"
+	],
+	"requires": []
+  },
+  {
+	"name": "Jungle Japes - Monitor",
+	"region": "Jungle Japes",
+	"category": [
+	  "Monitors"
+	],
+	"requires": "{OptAll(|Elephant| AND |Hyena|)}"
+  },
+  {
+	"name": "Jungle Doldrums - Monitor",
+	"region": "Jungle Doldrums",
+	"category": [
+	  "Monitors"
+	],
+	"requires": []
+  },
+  {
+	"name": "Swamp of Eternal Stench - Monitor",
+	"region": "Swamp of Eternal Stench",
+	"category": [
+	  "Monitors"
+	],
+	"requires": []
+  },
+  {
+	"name": "Weight For It - Monitor",
+	"region": "Weight For It",
+	"category": [
+	  "Monitors"
+	],
+	"requires": []
+  },
+  {
+	"name": "Jungle Jumps - Monitor",
+	"region": "Jungle Jumps",
+	"category": [
+	  "Monitors"
+	],
+	"requires": []
+  },
+  {
+	"name": "Fun in the Sun - Monitor",
+	"region": "Fun in the Sun",
+	"category": [
+	  "Monitors"
+	],
+	"requires": "{OptOne(|Camel|)}"
+  },
+  {
+	"name": "Hot Cross Buns - Monitor",
+	"region": "Hot Cross Buns",
+	"category": [
+	  "Monitors"
+	],
+	"requires": "{OptOne(|Vulture|)}"
+  },
+  {
+	"name": "Sting in the Tail - Monitor",
+	"region": "Sting in the Tail",
+	"category": [
+	  "Monitors"
+	],
+	"requires": []
+  },
+  {
+	"name": "Borassic Park - Monitor",
+	"region": "Borassic Park",
+	"category": [
+	  "Monitors"
+	],
+	"requires": []
+  },
+  {
+	"name": "Whirlwind Tour - Monitor",
+	"region": "Whirlwind Tour",
+	"category": [
+	  "Monitors"
+	],
+	"requires": []
+  },
+  {
+	"name": "Shifting Sands - Monitor",
+	"region": "Shifting Sands",
+	"category": [
+	  "Monitors"
+	],
+	"requires": []
   }
 ]

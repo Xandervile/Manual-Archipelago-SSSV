@@ -27,6 +27,11 @@ from ..Helpers import is_option_enabled, get_option_value
 #   options["total_characters_to_win_with"] = TotalCharactersToWinWith
 #
 
+class EvoUnlocksBCP(Toggle):
+	"""Evo Parts open BCP, the final level.
+	"""
+	display_name = "BCP Requires Evo Parts"
+
 class AnimalKill(DefaultOnToggle):
 	"""Killing Animals in each level contributes an item.
 	"""
@@ -37,18 +42,18 @@ class ShuffleAnimals(DefaultOnToggle):
 	"""
 	display_name = "Shuffle Playable Animals"
 	
-class ShufflePowerCells(Toggle):
-	"""Shuffles the collectable Power Cells into the pool. Not recommended, not yet implemented.
+class ShufflePowerCells(DefaultOnToggle):
+	"""Shuffles the collectable Power Cells into the pool.
 	"""
 	display_name = "Shuffle Power Cells"
-	
-class EvoUnlocksBCP(Toggle):
-	"""Evo Parts open BCP, the final level. Not recommended, not yet implemented.
+
+class ShuffleMonitors(Toggle):
+	"""Randomizes the Monitors in the levels that contain them.
 	"""
-	display_name = "BCP Requires Evo Parts"
+	display_name = "Shuffle Monitors"
 
 class RandomStartingLevel(Toggle):
-	"""Randomizes the starting level (and animal to fit the level if Animals are shuffled). For generation purposes, currently set to be 5 levels start.
+	"""Randomizes the starting level (and animal to fit the level if Animals are shuffled). Currently doesn't work with Animal Shuffle due to limited checks.
 	"""
 	display_name = "Randomize Starting Level"
 
@@ -60,10 +65,11 @@ def before_options_defined(options: dict) -> dict:
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
 def after_options_defined(options: dict) -> dict:
     options.update({
+	    'evo_unlocks_bcp': EvoUnlocksBCP,
         'animal_kill_checks': AnimalKill,
         'shuffle_playable_animals': ShuffleAnimals,
         'shuffle_power_cells': ShufflePowerCells,
-        'evo_unlocks_bcp': EvoUnlocksBCP,
+		'shuffle_monitors': ShuffleMonitors,
         'random_starting_level': RandomStartingLevel
     })
     return options
