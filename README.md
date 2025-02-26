@@ -6,9 +6,11 @@ Features:
 - Animals shuffled as items.
 - Killing Animals shuffled as checks.
 - Evo's Body Parts as possible win condition.
+- Shuffle Power Cells as Locations.
+- Shuffle Starting Level (but cannot use Animal Shuffle alongside due to limited game logic)
+- Shuffle Monitors as Locations
 
 Future Ideas:
-- Shuffle Power Cells (Possible, need to massively add logic and naming conventions here)
 - Shuffle Energy Cells (Possible, need to find them all)
-- Shuffle starting level and animal (Undergoing testing)
-- Shuffle Monitors as checks
+- Add Trophies as a win condition
+- Look into maybe a lua script to make it not a manual? Only I'm probs gonna use this anyway.
