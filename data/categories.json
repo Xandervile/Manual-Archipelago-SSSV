@@ -14,6 +14,11 @@
       "shuffle_power_cells"
     ]
   },
+  "Energy Cells": {
+    "yaml_option": [
+      "shuffle_energy_cells"
+    ]
+  },
   "Monitors": {
     "yaml_option": [
       "shuffle_monitors"

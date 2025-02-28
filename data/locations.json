@@ -204,7 +204,7 @@
     "category": [
       "Trophy"
     ],
-    "requires": "{OptOne(|King Penguin|)}",
+    "requires": [],
     "region": "Pinball Blizzard"
   },
   {
@@ -1269,6 +1269,14 @@
 	"requires": "{OptAll(|Rat| AND |Racing Fox|)}"
   },
   {
+	"name": "Rat-O-Matic - Corridor Power Cell",
+	"region": "Rat-O-Matic",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": []
+  },
+  {
 	"name": "Rat-O-Matic - Outside Power Cell",
 	"region": "Rat-O-Matic",
 	"category": [
@@ -1573,6 +1581,14 @@
 	"requires": "{OptAll(|Kangaroo| AND |Vulture|)}"
   },
   {
+	"name": "Shifting Sands - Near Spawn Behind Wall Power Cell (Left Sand)",
+	"region": "Shifting Sands",
+	"category": [
+	  "Power Cells"
+	],
+	"requires": "{OptAll(|Pogo Kangaroo| AND |Vulture|)}"
+  },
+  {
 	"name": "Smashing Start - Monitor",
 	"region": "Smashing Start",
 	"category": [
@@ -1737,6 +1753,430 @@
 	"region": "Shifting Sands",
 	"category": [
 	  "Monitors"
+	],
+	"requires": []
+  },
+  {
+	"name": "Smashing Start - Near Rocket Energy Cell",
+	"region": "Smashing Start",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Have A Nice Day - Above Pen Energy Cell",
+	"region": "Have A Nice Day",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Have A Nice Day - Above Dog House Energy Cell",
+	"region": "Have A Nice Day",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Honeymoon Lagoon - Above Ramp Energy Cell",
+	"region": "Honeymoon Lagoon",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Honeymoon Lagoon - In Hill Energy Cell",
+	"region": "Honeymoon Lagoon",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "The Battery Farm - After First Door Energy Cell",
+	"region": "The Battery Farm",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "The Battery Farm - Above House Energy Cell",
+	"region": "The Battery Farm",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": "{OptOne(|Sheep|)}"
+  },
+  {
+	"name": "The Engine Room - Before First Door Energy Cell",
+	"region": "The Engine Room",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "The Engine Room - Top Level Energy Cell",
+	"region": "The Engine Room",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "The Engine Room - Before Bridge Energy Cell",
+	"region": "The Engine Room",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": "{OptAll(|Racing Dog| AND |Bear|)}"
+  },
+  {
+	"name": "Fat Bear Mountain - Switchless Mountain Energy Cell",
+	"region": "Fat Bear Mountain",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Fat Bear Mountain - Near Top of Tall Room Energy Cell",
+	"region": "Fat Bear Mountain",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Fat Bear Mountain - Near Trophy Energy Cell",
+	"region": "Fat Bear Mountain",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Rocky Hard Place - Electric Fence Energy Cell",
+	"region": "Rocky Hard Place",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Rocky Hard Place - Near Trophy Energy Cell",
+	"region": "Rocky Hard Place",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Stinky Sewers - Slope Room Energy Cell",
+	"region": "Stinky Sewers",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": "{OptAll(|Rat| AND |Racing Fox|)}"
+  },
+  {
+	"name": "Stinky Sewers - King Rat Energy Cell",
+	"region": "Stinky Sewers",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": "{OptAll(|Rat| AND |Racing Fox|)}"
+  },
+  {
+	"name": "Rat-O-Matic - Toilet Room Energy Cell",
+	"region": "Rat-O-Matic",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": "{OptOne(|Racing Fox|)}"
+  },
+  {
+	"name": "Rat-O-Matic - Top of Mouse Room Energy Cell",
+	"region": "Rat-O-Matic",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": "{OptOne(|Racing Fox|)}"
+  },
+  {
+	"name": "Snow Joke - Top of Level Energy Cell",
+	"region": "Snow Joke",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Ice 'n' Easy Does It - Near Spawn Energy Cell",
+	"region": "Ice 'n' Easy Does It",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Ice 'n' Easy Does It - Walrus Room Energy Cell",
+	"region": "Ice 'n' Easy Does It",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": "{OptAll(|Heli Rabbit| AND |Walrus|)}"
+  },
+  {
+	"name": "Penguin Playpen - By Snowballs Energy Cell",
+	"region": "Penguin Playpen",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": "{OptOne(|Walrus|)}"
+  },
+  {
+	"name": "Penguin Playpen - Near Ski Husky Spawn Energy Cell",
+	"region": "Penguin Playpen",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": "{OptOne(|Walrus|)}"
+  },
+  {
+	"name": "Pinball Blizzard - Keyboard Energy Cell",
+	"region": "Pinball Blizzard",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Pinball Blizzard - Slope Room Energy Cell",
+	"region": "Pinball Blizzard",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Hoppa Choppa - Main Room Above Middle Cannon Energy Cell",
+	"region": "Hoppa Choppa",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": "{OptOne(|King Penguin|)}"
+  },
+  {
+	"name": "Hoppa Choppa - Bottom Right Corner Energy Cell",
+	"region": "Hoppa Choppa",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": "{OptOne(|King Penguin|)}"
+  },
+  {
+	"name": "Something Fishy - Igloo Energy Cell",
+	"region": "Something Fishy",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Something Fishy - Polar Bear Room Energy Cell",
+	"region": "Something Fishy",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": "{OptOne(|Walrus|)}"
+  },
+  {
+	"name": "Jungle Japes - Near Hyena Energy Cell",
+	"region": "Jungle Japes",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": "{OptOne(|Elephant|)}"
+  },
+  {
+	"name": "Jungle Japes - Under Trophy Energy Cell",
+	"region": "Jungle Japes",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": "{OptAll(|Elephant| AND |Hyena|)}"
+  },
+  {
+	"name": "Jungle Doldrums - Near Spawn Energy Cell",
+	"region": "Jungle Doldrums",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Jungle Doldrums - Near Parrot Energy Cell",
+	"region": "Jungle Doldrums",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": "{OptAll(|Hippo| AND |Parrot|)}"
+  },
+  {
+	"name": "Swamp of Eternal Stench - Hyena Stairs Energy Cell",
+	"region": "Swamp of Eternal Stench",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": "{OptOne(|Hyena|)}"
+  },
+  {
+	"name": "Swamp of Eternal Stench - Above Hyena Energy Cell",
+	"region": "Swamp of Eternal Stench",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": "{OptOne(|Hyena|)}"
+  },
+  {
+	"name": "Swamp of Eternal Stench - Narrow Platforms Energy Cell",
+	"region": "Swamp of Eternal Stench",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": "{OptAll(|Hyena| AND |Gorilla|)}"
+  },
+  {
+	"name": "Weight For It - Bridge Energy Cell",
+	"region": "Weight For It",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Weight For It - Above Parrot Energy Cell",
+	"region": "Weight For It",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": "{OptAll(|Hyena| AND |Parrot|)}"
+  },
+  {
+	"name": "Jungle Jumps - Hole By Start Energy Cell",
+	"region": "Jungle Jumps",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Jungle Jumps - Hole By Chameleon Energy Cell",
+	"region": "Jungle Jumps",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Fun in the Sun - Near Spawn Energy Cell",
+	"region": "Fun in the Sun",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Fun in the Sun - Above Big Door Energy Cell",
+	"region": "Fun in the Sun",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": "{OptOne(|Camel|)}"
+  },
+  {
+	"name": "Hot Cross Buns - Near Scorpion Pool Energy Cell",
+	"region": "Hot Cross Buns",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": "{OptOne(|Vulture|)}"
+  },
+  {
+	"name": "Hot Cross Buns - In Scorpion Burrow Energy Cell",
+	"region": "Hot Cross Buns",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": "{OptAll(|Vulture| AND |Desert Fox| AND |Scorpion|)}"
+  },
+  {
+	"name": "Sting in the Tail - Near Vulture Door Energy Cell",
+	"region": "Hot Cross Buns",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Sting in the Tail - In Vulture Room Energy Cell",
+	"region": "Hot Cross Buns",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Borassic Park - Before Cave Energy Cell",
+	"region": "Borassic Park",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Borassic Park - After Cave Energy Cell",
+	"region": "Borassic Park",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Whirlwind Tour - Near Kangaroo Energy Cell",
+	"region": "Whirlwind Tour",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Whirlwind Tour - Next To Monitor Energy Cell",
+	"region": "Whirlwind Tour",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Shifting Sands - Pillar Bridge Energy Cell (Left Sand)",
+	"region": "Shifting Sands",
+	"category": [
+	  "Energy Cells"
+	],
+	"requires": []
+  },
+  {
+	"name": "Shifting Sands - Next To Pillars Energy Cell (Left Sand)",
+	"region": "Shifting Sands",
+	"category": [
+	  "Energy Cells"
 	],
 	"requires": []
   }

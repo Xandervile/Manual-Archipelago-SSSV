@@ -46,6 +46,11 @@ class ShufflePowerCells(DefaultOnToggle):
 	"""Shuffles the collectable Power Cells into the pool.
 	"""
 	display_name = "Shuffle Power Cells"
+	
+class ShuffleEnergyCells(DefaultOnToggle):
+	"""Shuffles the health packs into the pool.
+	"""
+	display_name = "Shuffle Energy Cells"
 
 class ShuffleMonitors(Toggle):
 	"""Randomizes the Monitors in the levels that contain them.
@@ -69,6 +74,7 @@ def after_options_defined(options: dict) -> dict:
         'animal_kill_checks': AnimalKill,
         'shuffle_playable_animals': ShuffleAnimals,
         'shuffle_power_cells': ShufflePowerCells,
+        'shuffle_energy_cells': ShuffleEnergyCells,
 		'shuffle_monitors': ShuffleMonitors,
         'random_starting_level': RandomStartingLevel
     })
