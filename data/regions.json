@@ -49,7 +49,7 @@
   },
   "Ice 'n' Easy Does It": {
     "connects_to": ["Level Select"],
-    "requires": "|Ice 'n' Easy Does It Access| AND {OptOne(|Penguin|)}"
+    "requires": "|Ice 'n' Easy Does It Access| AND {OptOne(|Husky|)}"
   },
   "Penguin Playpen": {
     "connects_to": ["Level Select"],

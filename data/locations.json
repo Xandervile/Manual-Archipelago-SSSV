@@ -84,7 +84,7 @@
     "category": [
       "Level Completion"
     ],
-    "requires": "{OptAll(|Ram| AND |Bear| AND |Sheep|)}",
+    "requires": "{OptAll(|Ram| AND |Bear| AND |Sheep| AND |Racing Dog|)}",
     "region": "Fat Bear Mountain"
   },
   {
@@ -164,7 +164,7 @@
     "category": [
       "Level Completion"
     ],
-    "requires": "{OptOne(|Heli Rabbit|)}",
+    "requires": "{OptOne(|Rabbit| AND |Heli Rabbit|)}",
     "region": "Ice 'n' Easy Does It"
   },
   {
@@ -172,7 +172,7 @@
     "category": [
       "Trophy"
     ],
-    "requires": "{OptAll(|Walrus| AND |Heli Rabbit|)}",
+    "requires": "{OptAll(|Rabbit| AND |Walrus| AND |Heli Rabbit|)}",
     "region": "Ice 'n' Easy Does It"
   },
   {
@@ -1482,7 +1482,7 @@
 	"category": [
 	  "Power Cells"
 	],
-	"requires": "{OptAll(|Hyena| AND |Parrot|)} OR {OptAll(|Hyena| AND |Piranha|)}"
+	"requires": "{OptAll(|Hyena| AND |Parrot|)} OR {OptAll(|Hyena| AND |Piranha|)} OR {OptAll(|Gorilla| AND |Piranha|)}"
   },
   {
 	"name": "Jungle Jumps - Hole By Start Power Cell",
@@ -1930,7 +1930,7 @@
 	"category": [
 	  "Energy Cells"
 	],
-	"requires": "{OptAll(|Heli Rabbit| AND |Walrus|)}"
+	"requires": "{OptAll(|Rabbit| AND |Heli Rabbit| AND |Walrus|)}"
   },
   {
 	"name": "Penguin Playpen - By Snowballs Energy Cell",
@@ -2179,5 +2179,485 @@
 	  "Energy Cells"
 	],
 	"requires": []
+  },
+  {
+    "name": "Smashing Start - Task 1 (Get Energy)",
+    "region": "Smashing Start",
+    "category": [
+      "Tasks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Smashing Start - Task 2 (Be Sheep)",
+    "region": "Smashing Start",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptOne(|Sheep|)}"
+  },
+  {
+    "name": "Have A Nice Day - Task 1 (Pen 4 Sheep)",
+    "region": "Have A Nice Day",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptOne(|Sheep|)}"
+  },
+  {
+    "name": "Have A Nice Day - Task 2 (Be Mouse)",
+    "region": "Have A Nice Day",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptOne(|Racing Mouse|)}"
+  },
+  {
+    "name": "Honeymoon Lagoon - Task 1 (Deactivate Machine)",
+    "region": "Honeymoon Lagoon",
+    "category": [
+      "Tasks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Honeymoon Lagoon - Task 2 (Deactivate Fence)",
+    "region": "Honeymoon Lagoon",
+    "category": [
+      "Tasks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Honeymoon Lagoon - Task 3 (Be Sheep)",
+    "region": "Honeymoon Lagoon",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptOne(|Sheep|)}"
+  },
+  {
+    "name": "The Battery Farm - Task 1 (Raise Bridge)",
+    "region": "The Battery Farm",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptOne(|Sheep|)}"
+  },
+  {
+    "name": "The Battery Farm - Task 2 (Grow Carrots)",
+    "region": "The Battery Farm",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptOne(|Sheep|)}"
+  },
+  {
+    "name": "The Battery Farm - Task 3 (Deactivate Fence)",
+    "region": "The Battery Farm",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptAll(|Sheep| AND |Racing Dog|)}"
+  },
+  {
+    "name": "The Engine Room - Task 1 (Keycard)",
+    "region": "The Engine Room",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptOne(|Bear|)}"
+  },
+  {
+    "name": "The Engine Room - Task 2 (Extend Bridge)",
+    "region": "The Engine Room",
+    "category": [
+      "Tasks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Engine Room - Task 3 (Deactivate Fence)",
+    "region": "The Engine Room",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptOne(|Bear|)}"
+  },
+  {
+    "name": "Fat Bear Mountain - Task 1 (Kill Angry Animals)",
+    "region": "Fat Bear Mountain",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptAll(|Racing Dog| AND |Ram|)}"
+  },
+  {
+    "name": "Fat Bear Mountain - Task 2 (Flood Pool)",
+    "region": "Fat Bear Mountain",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptAll(|Bear| AND |Racing Dog| AND |Ram|)}"
+  },
+  {
+    "name": "Rocky Hard Place - Task 1 (Elevate Asteroids)",
+    "region": "Rocky Hard Place",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptOne(|Sheep|)}"
+  },
+  {
+    "name": "Rocky Hard Place - Task 2 (Be Spring Sheep)",
+    "region": "Rocky Hard Place",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptAll(|Sheep| AND |Spring Sheep|)}"
+  },
+  {
+    "name": "Stinky Sewers - Task 1 (Find Keycard)",
+    "region": "Stinky Sewers",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptAll(|Racing Fox| AND |Rat|)}"
+  },
+  {
+    "name": "Stinky Sewers - Task 2 (King Rat Hole)",
+    "region": "Stinky Sewers",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptAll(|Racing Fox| AND |Rat| AND |King Rat|)}"
+  },
+  {
+    "name": "Rat-O-Matic  - Task 1 (Kill all foxes)",
+    "region": "Rat-O-Matic",
+    "category": [
+      "Tasks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Rat-O-Matic  - Task 2 (Destroy Machines)",
+    "region": "Rat-O-Matic",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptOne(|Racing Mouse| AND |Racing Fox|)}"
+  },
+  {
+    "name": "Give A Dog A Bonus  - Task 1 (Stars)",
+    "region": "Give A Dog A Bonus",
+    "category": [
+      "Tasks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Give A Dog A Bonus  - Task 2 (Kill Foxes)",
+    "region": "Give A Dog A Bonus",
+    "category": [
+      "Tasks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Snow Joke - Task 1 (Snow Blower)",
+    "region": "Snow Joke",
+    "category": [
+      "Tasks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Snow Joke - Task 2 (Computer)",
+    "region": "Snow Joke",
+    "category": [
+      "Tasks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Snow Joke - Task 3 (Be Husky)",
+    "region": "Snow Joke",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptOne(|Husky|)}"
+  },
+  {
+    "name": "Ice 'n' Easy Does It - Task 1 (Get Heads)",
+    "region": "Ice 'n' Easy Does It",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptAll(|Rabbit| AND |Heli Rabbit|)}"
+  },
+  {
+    "name": "Penguin Playpen - Task 1 (Kill Seagull)",
+    "region": "Penguin Playpen",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptAll(|Walrus| AND |Skiing Husky|)}"
+  },
+  {
+    "name": "Penguin Playpen - Task 2 (Destroy Statue)",
+    "region": "Penguin Playpen",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptAll(|Walrus| AND |Seagull| AND |Skiing Husky|)}"
+  },
+  {
+    "name": "Pinball Blizzard - Task 1 (Collect Notes)",
+    "region": "Pinball Blizzard",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptOne(|King Penguin|)}"
+  },
+  {
+    "name": "Pinball Blizzard - Task 2 (Play Tune)",
+    "region": "Pinball Blizzard",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptOne(|King Penguin|)}"
+  },
+  {
+    "name": "Hoppa Choppa - Task 1 (Kill Huskies)",
+    "region": "Hoppa Choppa",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptAll(|King Penguin| AND |Heli Rabbit|)}"
+  },
+  {
+    "name": "Hoppa Choppa - Task 2 (Destroy Cannons)",
+    "region": "Hoppa Choppa",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptAll(|King Penguin| AND |Heli Rabbit|)}"
+  },
+  {
+    "name": "Something Fishy - Task 1 (Free the Fish)",
+    "region": "Something Fishy",
+    "category": [
+      "Tasks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Something Fishy - Task 2 (Open Door)",
+    "region": "Something Fishy",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptOne(|Walrus|)}"
+  },
+  {
+    "name": "Jungle Japes - Task 1 (Turn Air Pump On)",
+    "region": "Jungle Japes",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptOne(|Elephant|)}"
+  },
+  {
+    "name": "Jungle Japes - Task 2 (Kill Piranhas)",
+    "region": "Jungle Japes",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptOne(|Elephant|)}"
+  },
+  {
+    "name": "Jungle Doldrums - Task 1 (Kill Parrot)",
+    "region": "Jungle Doldrums",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptOne(|Hippo|)}"
+  },
+  {
+    "name": "Swamp of Eternal Stench - Task 1 (Get Hyena)",
+    "region": "Swamp of Eternal Stench",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptOne(|Hyena|)}"
+  },
+  {
+    "name": "Swamp of Eternal Stench - Task 2 (Be Gorilla)",
+    "region": "Swamp of Eternal Stench",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptAll(|Hyena| AND |Gorilla|)}"
+  },
+  {
+    "name": "Swamp of Eternal Stench - Task 3 (Free Rope)",
+    "region": "Swamp of Eternal Stench",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptAll(|Hyena| AND |Gorilla|)}"
+  },
+  {
+    "name": "Weight For It - Task 1 (Get Piranha)",
+    "region": "Weight For It",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptAll(|Hyena| AND |Piranha|)} OR {OptAll(|Gorilla| AND |Piranha|)}"
+  },
+  {
+    "name": "Weight For It - Task 2 (Be Elephant)",
+    "region": "Weight For It",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptAll(|Hyena| AND |Parrot| AND |Elephant|)}"
+  },
+  {
+    "name": "Jungle Jumps - Task 1 (Kill Gorillas)",
+    "region": "Jungle Jumps",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptAll(|Chameleon| AND |Racing Hyena|)}"
+  },
+  {
+    "name": "Jungle Jumps - Task 2 (Kill Hyenas)",
+    "region": "Jungle Jumps",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptOne(|Chameleon|)}"
+  },
+  {
+    "name": "Jungle Jumps - Task 3 (Get All Keys)",
+    "region": "Jungle Jumps",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptAll(|Chameleon| AND |Racing Hyena| AND |Gorilla|)}"
+  },
+  {
+    "name": "Fun in the Sun - Task 1 (Restart Oil Pump)",
+    "region": "Fun in the Sun",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptOne(|Camel|)}"
+  },
+  {
+    "name": "Fun in the Sun - Task 2 (Open Valves)",
+    "region": "Fun in the Sun",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptAll(|Camel| AND |Vulture|)}"
+  },
+  {
+    "name": "Hot Cross Buns - Task 1 (Destroy Speakers)",
+    "region": "Hot Cross Buns",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptOne(|Vulture|)}"
+  },
+  {
+    "name": "Hot Cross Buns - Task 2 (Kill Foxes)",
+    "region": "Hot Cross Buns",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptOne(|Vulture|)}"
+  },
+  {
+    "name": "Hot Cross Buns - Task 3 (Platforms)",
+    "region": "Hot Cross Buns",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptAll(|Vulture| AND |Scorpion| AND |Desert Fox|)}"
+  },
+  {
+    "name": "Sting in the Tail - Task 1 (Get Kangaroo)",
+    "region": "Sting in the Tail",
+    "category": [
+      "Tasks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sting in the Tail - Task 2 (Get Vulture)",
+    "region": "Sting in the Tail",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptOne(|Kangaroo|)}"
+  },
+  {
+    "name": "Borassic Park - Task 1 (Archaeology)",
+    "region": "Borassic Park",
+    "category": [
+      "Tasks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Borassic Park - Task 2 (Get Kangaroo)",
+    "region": "Borassic Park",
+    "category": [
+      "Tasks"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Whirlwind Tour - Task 1 (Get Armed Desert Fox)",
+    "region": "Whirlwind Tour",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptOne(|Armed Desert Fox|)}"
+  },
+  {
+    "name": "Whirlwind Tour - Task 2 (Get Kangaroo)",
+    "region": "Whirlwind Tour",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptAll(|Armed Desert Fox| AND |Kangaroo|)}"
+  },
+  {
+    "name": "Whirlwind Tour - Task 3 (Get Vulture)",
+    "region": "Whirlwind Tour",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptAll(|Armed Desert Fox| AND |Kangaroo| AND |Vulture|)}"
+  },
+  {
+    "name": "Shifting Sands - Task 1 (Get Pogo Kangaroo)",
+    "region": "Shifting Sands",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptOne(|Pogo Kangaroo|)}"
+  },
+  {
+    "name": "Shifting Sands - Task 2 (Get Vulture)",
+    "region": "Shifting Sands",
+    "category": [
+      "Tasks"
+    ],
+    "requires": "{OptAll(|Pogo Kangaroo| AND |Vulture|)}"
   }
 ]

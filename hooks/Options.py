@@ -62,6 +62,11 @@ class RandomStartingLevel(Toggle):
 	"""
 	display_name = "Randomize Starting Level"
 
+class ShuffleTasks(Toggle):
+	"""Randomizes the tasks in the levels that contain them.
+	"""
+	display_name = "Shuffle Tasks"
+
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:
@@ -76,6 +81,7 @@ def after_options_defined(options: dict) -> dict:
         'shuffle_power_cells': ShufflePowerCells,
         'shuffle_energy_cells': ShuffleEnergyCells,
 		'shuffle_monitors': ShuffleMonitors,
-        'random_starting_level': RandomStartingLevel
+        'random_starting_level': RandomStartingLevel,
+		'shuffle_tasks': ShuffleTasks
     })
     return options

@@ -30,11 +30,11 @@
 		"items": ["Rat"]
 	},
 	{
-		"if_previous_item": ["Snow Joke", "Ice 'n' Easy Does It", "Pinball Blizzard"],
+		"if_previous_item": ["Ice 'n' Easy Does It", "Pinball Blizzard"],
 		"items": ["Husky"]
 	},
 	{
-		"if_previous_item": ["Penguin Playpen", "Hoppa Choppa"],
+		"if_previous_item": ["Snow Joke" ,"Penguin Playpen", "Hoppa Choppa"],
 		"items": ["Penguin"]
 	},
 	{
