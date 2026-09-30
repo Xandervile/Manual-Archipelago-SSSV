@@ -1,14 +1,18 @@
 A Manual Archipelago implementation of Space Station Silicon Valley on the GameBoy.
 
 Features:
-- Level Access shuffled as items.
-- Level Completion shuffled as checks.
-- Animals shuffled as items.
-- Killing Animals shuffled as checks.
-- Evo's Body Parts as possible win condition.
+
+Level Access shuffled as items.
+Trophies shuffled as items and checks.
+Level Completion shuffled as checks.
+Animals shuffled as items.
+Killing Animals shuffled as checks.
+Evo's Body Parts as possible Big Celebration Parade Condition, else need to find the BCP level access.
+Shuffle Power Cells, Energy Cells, Monitors and Tasks per level as checks
+FINALLY FIXED RANDOM STARTING LEVEL!
+Added Progressive Levels for each area instead of Level Tickets.
 
 Future Ideas:
-- Shuffle Power Cells (Possible, need to massively add logic and naming conventions here)
-- Shuffle Energy Cells (Possible, need to find them all)
-- Shuffle starting level and animal (Undergoing testing)
-- Shuffle Monitors as checks
+
+In level switches (checks and items depending)
+Button usage (A, B and Select)
