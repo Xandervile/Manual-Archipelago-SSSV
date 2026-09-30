@@ -1,241 +1,241 @@
 [
   {
-    "name": "Have A Nice Day Access",
+    "name": "Have A Nice Day Ticket",
     "count": 1,
     "category": [
-      "Level Access"
+      "Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
     "category": [
-      "Level Access"
+      "Level Ticket"
     ],
-    "name": "Honeymoon Lagoon Access",
+    "name": "Honeymoon Lagoon Ticket",
     "progression": true
   },
   {
     "count": 1,
-    "name": "The Battery Farm Access",
+    "name": "The Battery Farm Ticket",
     "category": [
-      "Level Access"
-    ],
-    "progression": true
-  },
-  {
-    "count": 1,
-    "name": "The Engine Room Access",
-    "category": [
-      "Level Access"
+      "Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Fat Bear Mountain Access",
+    "name": "The Engine Room Ticket",
     "category": [
-      "Level Access"
+      "Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Rocky Hard Place Access",
+    "name": "Fat Bear Mountain Ticket",
     "category": [
-      "Level Access"
+      "Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Stinky Sewers Access",
+    "name": "Rocky Hard Place Ticket",
     "category": [
-      "Level Access"
+      "Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Rat-O-Matic Access",
+    "name": "Stinky Sewers Ticket",
     "category": [
-      "Level Access"
+      "Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Give A Dog A Bonus Access",
+    "name": "Rat-O-Matic Ticket",
     "category": [
-      "Boss Level Access"
+      "Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Snow Joke Access",
+    "name": "Give A Dog A Bonus Ticket",
     "category": [
-      "Level Access"
+      "Boss Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Ice 'n' Easy Does It Access",
+    "name": "Snow Joke Ticket",
     "category": [
-      "Level Access"
+      "Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Penguin Playpen Access",
+    "name": "Ice 'n' Easy Does It Ticket",
     "category": [
-      "Level Access"
+      "Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Pinball Blizzard Access",
+    "name": "Penguin Playpen Ticket",
     "category": [
-      "Level Access"
+      "Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Hoppa Choppa Access",
+    "name": "Pinball Blizzard Ticket",
     "category": [
-      "Level Access"
+      "Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Something Fishy Access",
+    "name": "Hoppa Choppa Ticket",
     "category": [
-      "Level Access"
+      "Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Walrace Access",
+    "name": "Something Fishy Ticket",
     "category": [
-      "Boss Level Access"
+      "Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Jungle Japes Access",
+    "name": "Walrace Ticket",
     "category": [
-      "Level Access"
+      "Boss Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Jungle Doldrums Access",
+    "name": "Jungle Japes Ticket",
     "category": [
-      "Level Access"
+      "Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Swamp of Eternal Stench Access",
+    "name": "Jungle Doldrums Ticket",
     "category": [
-      "Level Access"
+      "Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Weight For It Access",
+    "name": "Swamp of Eternal Stench Ticket",
     "category": [
-      "Level Access"
+      "Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Jungle Jumps Access",
+    "name": "Weight For It Ticket",
     "category": [
-      "Level Access"
+      "Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Evo's Escape Access",
+    "name": "Jungle Jumps Ticket",
     "category": [
-      "Boss Level Access"
+      "Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Fun in the Sun Access",
+    "name": "Evo's Escape Ticket",
     "category": [
-      "Level Access"
+      "Boss Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Hot Cross Buns Access",
+    "name": "Fun in the Sun Ticket",
     "category": [
-      "Level Access"
+      "Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Sting in the Tail Access",
+    "name": "Hot Cross Buns Ticket",
     "category": [
-      "Level Access"
+      "Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Borassic Park Access",
+    "name": "Sting in the Tail Ticket",
     "category": [
-      "Level Access"
+      "Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Whirlwind Tour Access",
+    "name": "Borassic Park Ticket",
     "category": [
-      "Level Access"
+      "Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Shifting Sands Access",
+    "name": "Whirlwind Tour Ticket",
     "category": [
-      "Level Access"
+      "Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Punch Up Pyramid Access",
+    "name": "Shifting Sands Ticket",
     "category": [
-      "Boss Level Access"
+      "Level Ticket"
     ],
     "progression": true
   },
   {
     "count": 1,
-    "name": "Big Celebration Parade Access",
+    "name": "Punch Up Pyramid Ticket",
     "category": [
-      "Final Access"
+      "Boss Level Ticket"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Big Celebration Parade Ticket",
+    "category": [
+      "Final Ticket"
     ],
     "progression": true
   },
@@ -249,9 +249,9 @@
   },
   {
     "count": 1,
-    "name": "Smashing Start Access",
+    "name": "Smashing Start Ticket",
     "category": [
-      "Level Access"
+      "Level Ticket"
     ],
     "progression": true
   },
@@ -612,6 +612,38 @@
     "name": "Evo's Head",
     "category": [
       "Evo Parts"
+    ],
+    "progression": true
+  },
+  {
+    "count": 10,
+    "name": "Progressive Europe Level",
+    "category": [
+      "Progressive Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 7,
+    "name": "Progressive Arctic Level",
+    "category": [
+      "Progressive Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 6,
+    "name": "Progressive Jungle Level",
+    "category": [
+      "Progressive Levels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 7,
+    "name": "Progressive Desert Level",
+    "category": [
+      "Progressive Levels"
     ],
     "progression": true
   }

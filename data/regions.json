@@ -5,126 +5,126 @@
   },
   "Smashing Start": {
     "connects_to": ["Level Select"],
-    "requires": "|Smashing Start Access| AND {OptOne(|Dog|)}"
+    "requires": "({OptOne(|Smashing Start Ticket|)} AND {OptOne(|Progressive Europe Level:1|)}) AND {OptOne(|Dog|)}"
   },
   "Have A Nice Day": {
     "connects_to": ["Level Select"],
-    "requires": "|Have A Nice Day Access| AND {OptOne(|Dog|)}"
+    "requires": "({OptOne(|Have A Nice Day Ticket|)} AND {OptOne(|Progressive Europe Level:2|)}) AND {OptOne(|Dog|)}"
   },
   "Honeymoon Lagoon": {
     "connects_to": ["Level Select"],
-    "requires": "|Honeymoon Lagoon Access| AND {OptOne(|Racing Mouse|)}"
+    "requires": "({OptOne(|Honeymoon Lagoon Ticket|)} AND {OptOne(|Progressive Europe Level:3|)}) AND {OptOne(|Racing Mouse|)}"
   },
   "The Battery Farm": {
     "connects_to": ["Level Select"],
-    "requires": "|The Battery Farm Access| AND {OptOne(|Racing Mouse|)}"
+    "requires": "({OptOne(|The Battery Farm Ticket|)} AND {OptOne(|Progressive Europe Level:4|)}) AND {OptOne(|Racing Mouse|)}"
   },
   "The Engine Room": {
     "connects_to": ["Level Select"],
-    "requires": "|The Engine Room Access| AND {OptOne(|Racing Fox|)}"
+    "requires": "({OptOne(|The Engine Room Ticket|)} AND {OptOne(|Progressive Europe Level:5|)}) AND {OptOne(|Racing Fox|)}"
   },
   "Fat Bear Mountain": {
     "connects_to": ["Level Select"],
-    "requires": "|Fat Bear Mountain Access| AND {OptOne(|Racing Mouse|)}"
+    "requires": "({OptOne(|Fat Bear Mountain Ticket|)} AND {OptOne(|Progressive Europe Level:6|)}) AND {OptOne(|Racing Mouse|)}"
   },
   "Rocky Hard Place": {
     "connects_to": ["Level Select"],
-    "requires": "|Rocky Hard Place Access| AND {OptOne(|Racing Fox|)}"
+    "requires": "({OptOne(|Rocky Hard Place Ticket|)} AND {OptOne(|Progressive Europe Level:7|)}) AND {OptOne(|Racing Fox|)}"
   },
   "Stinky Sewers": {
     "connects_to": ["Level Select"],
-    "requires": "|Stinky Sewers Access| AND {OptOne(|Dog|)}"
+    "requires": "({OptOne(|Stinky Sewers Ticket|)} AND {OptOne(|Progressive Europe Level:8|)}) AND {OptOne(|Dog|)}"
   },
   "Rat-O-Matic": {
     "connects_to": ["Level Select"],
-    "requires": "|Rat-O-Matic Access| AND {OptOne(|Rat|)}"
+    "requires": "({OptOne(|Rat-O-Matic Ticket|)} AND {OptOne(|Progressive Europe Level:9|)}) AND {OptOne(|Rat|)}"
   },
   "Give A Dog A Bonus": {
     "connects_to": ["Level Select"],
-    "requires": "|Give A Dog A Bonus Access| AND {OptOne(|Flying Dog|)}"
+    "requires": "({OptOne(|Give A Dog A Bonus Ticket|)} AND {OptOne(|Progressive Europe Level:10|)}) AND {OptOne(|Flying Dog|)}"
   },
   "Snow Joke": {
     "connects_to": ["Level Select"],
-    "requires": "|Snow Joke Access| AND {OptOne(|Penguin|)}"
+    "requires": "({OptOne(|Snow Joke Ticket|)} AND {OptOne(|Progressive Arctic Level:1|)}) AND {OptOne(|Penguin|)}"
   },
   "Ice 'n' Easy Does It": {
     "connects_to": ["Level Select"],
-    "requires": "|Ice 'n' Easy Does It Access| AND {OptOne(|Husky|)}"
+    "requires": "({OptOne(|Ice 'n' Easy Does It Ticket|)} AND {OptOne(|Progressive Arctic Level:2|)}) AND {OptOne(|Husky|)}"
   },
   "Penguin Playpen": {
     "connects_to": ["Level Select"],
-    "requires": "|Penguin Playpen Access| AND {OptOne(|Penguin|)}"
+    "requires": "({OptOne(|Penguin Playpen Ticket|)} AND {OptOne(|Progressive Arctic Level:3|)}) AND {OptOne(|Penguin|)}"
   },
   "Pinball Blizzard": {
     "connects_to": ["Level Select"],
-    "requires": "|Pinball Blizzard Access| AND {OptOne(|Husky|)}"
+    "requires": "({OptOne(|Pinball Blizzard Ticket|)} AND {OptOne(|Progressive Arctic Level:4|)}) AND {OptOne(|Husky|)}"
   },
   "Hoppa Choppa": {
     "connects_to": ["Level Select"],
-    "requires": "|Hoppa Choppa Access| AND {OptOne(|Penguin|)}"
+    "requires": "({OptOne(|Hoppa Choppa Ticket|)} AND {OptOne(|Progressive Arctic Level:5|)}) AND {OptOne(|Penguin|)}"
   },
   "Something Fishy": {
     "connects_to": ["Level Select"],
-    "requires": "|Something Fishy Access| AND {OptOne(|Cool Cod|)}"
+    "requires": "({OptOne(|Something Fishy Ticket|)} AND {OptOne(|Progressive Arctic Level:6|)}) AND {OptOne(|Cool Cod|)}"
   },
   "Walrace": {
     "connects_to": ["Level Select"],
-    "requires": "|Walrace Access| AND {OptOne(|Walrus|)}"
+    "requires": "({OptOne(|Walrace Ticket|)} AND {OptOne(|Progressive Arctic Level:7|)}) AND {OptOne(|Walrus|)}"
   },
   "Jungle Japes": {
     "connects_to": ["Level Select"],
-    "requires": "|Jungle Japes Access| AND {OptOne(|Tortoise Tank|)}"
+    "requires": "({OptOne(|Jungle Japes Ticket|)} AND {OptOne(|Progressive Jungle Level:1|)}) AND {OptOne(|Tortoise Tank|)}"
   },
   "Jungle Doldrums": {
     "connects_to": ["Level Select"],
-    "requires": "|Jungle Doldrums Access| AND {OptOne(|Hyena|)}"
+    "requires": "({OptOne(|Jungle Doldrums Ticket|)} AND {OptOne(|Progressive Jungle Level:2|)}) AND {OptOne(|Hyena|)}"
   },
   "Swamp of Eternal Stench": {
     "connects_to": ["Level Select"],
-    "requires": "|Swamp of Eternal Stench Access| AND {OptOne(|Racing Tortoise|)}"
+    "requires": "({OptOne(|Swamp of Eternal Stench Ticket|)} AND {OptOne(|Progressive Jungle Level:3|)}) AND {OptOne(|Racing Tortoise|)}"
   },
   "Weight For It": {
     "connects_to": ["Level Select"],
-    "requires": "|Weight For It Access| AND {OptOne(|Lion|)}"
+    "requires": "({OptOne(|Weight For It Ticket|)} AND {OptOne(|Progressive Jungle Level:4|)}) AND {OptOne(|Lion|)}"
   },
   "Jungle Jumps": {
     "connects_to": ["Level Select"],
-    "requires": "|Jungle Jumps Access| AND {OptOne(|Racing Tortoise|)}"
+    "requires": "({OptOne(|Jungle Jumps Ticket|)} AND {OptOne(|Progressive Jungle Level:5|)}) AND {OptOne(|Racing Tortoise|)}"
   },
   "Evo's Escape": {
     "connects_to": ["Level Select"],
-    "requires": "|Evo's Escape Access| AND {OptOne(|Security Camera|)}"
+    "requires": "({OptOne(|Evo's Escape Ticket|)} AND {OptOne(|Progressive Jungle Level:6|)}) AND {OptOne(|Security Camera|)}"
   },
   "Fun in the Sun": {
     "connects_to": ["Level Select"],
-    "requires": "|Fun in the Sun Access| AND {OptOne(|Armed Desert Fox|)}"
+    "requires": "({OptOne(|Fun in the Sun Ticket|)} AND {OptOne(|Progressive Desert Level:1|)}) AND {OptOne(|Armed Desert Fox|)}"
   },
   "Hot Cross Buns": {
     "connects_to": ["Level Select"],
-    "requires": "|Hot Cross Buns Access| AND {OptOne(|Camel Tank|)}"
+    "requires": "({OptOne(|Hot Cross Buns Ticket|)} AND {OptOne(|Progressive Desert Level:2|)}) AND {OptOne(|Camel Tank|)}"
   },
   "Sting in the Tail": {
     "connects_to": ["Level Select"],
-    "requires": "|Sting in the Tail Access| AND {OptOne(|Desert Fox|)}"
+    "requires": "({OptOne(|Sting in the Tail Ticket|)} AND {OptOne(|Progressive Desert Level:3|)}) AND {OptOne(|Desert Fox|)}"
   },
   "Borassic Park": {
     "connects_to": ["Level Select"],
-    "requires": "|Borassic Park Access| AND {OptOne(|Armed Desert Fox|)}"
+    "requires": "({OptOne(|Borassic Park Ticket|)} AND {OptOne(|Progressive Desert Level:4|)}) AND {OptOne(|Armed Desert Fox|)}"
   },
   "Whirlwind Tour": {
     "connects_to": ["Level Select"],
-    "requires": "|Whirlwind Tour Access| AND {OptOne(|Camel Tank|)}"
+    "requires": "({OptOne(|Whirlwind Tour Ticket|)} AND {OptOne(|Progressive Desert Level:5|)}) AND {OptOne(|Camel Tank|)}"
   },
   "Shifting Sands": {
     "connects_to": ["Level Select"],
-    "requires": "|Shifting Sands Access| AND {OptOne(|Desert Fox|)}"
+    "requires": "({OptOne(|Shifting Sands Ticket|)} AND {OptOne(|Progressive Desert Level:6|)}) AND {OptOne(|Desert Fox|)}"
   },
   "Punch Up Pyramid": {
     "connects_to": ["Level Select"],
-    "requires": "|Punch Up Pyramid Access| AND {OptOne(|Kangaroo|)}"
+    "requires": "({OptOne(|Punch Up Pyramid Ticket|)} AND {OptOne(|Progressive Desert Level:7|)}) AND {OptOne(|Kangaroo|)}"
   },
   "Big Celebration Parade": {
     "connects_to": ["Level Select"],
-    "requires": "|Big Celebration Parade Access|"
+    "requires": "({YamlDisabled(evo_unlocks_bcp)} AND {OptOne(|Big Celebration Parade Ticket|)} AND {OptOne(|Progressive Desert Level:7|)} AND {OptOne(|Progressive Jungle Level:6|)} AND {OptOne(|Progressive Arctic Level:7|)} AND {OptOne(|Progressive Europe Level:10|)}) OR ({YamlEnabled(evo_unlocks_bcp)} AND |@Evo Parts:4|)"
   }
 }

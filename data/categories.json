@@ -1,4 +1,28 @@
 {
+  "Level Ticket": {
+    "yaml_option": [
+      "level_tickets",
+      "!progressive_levels"
+    ]
+  },
+  "Boss Level Ticket": {
+    "yaml_option": [
+      "level_tickets",
+      "!progressive_levels"
+    ]
+  },
+  "Final Ticket": {
+    "yaml_option": [
+      "level_tickets",
+      "!progressive_levels",
+      "!evo_parts_unlocks_bcp"
+    ]
+  },
+  "Progressive Levels": {
+    "yaml_option": [
+      "progressive_levels"
+    ]
+  },
   "Animal Checks": {
     "yaml_option": [
       "animal_kill_checks"

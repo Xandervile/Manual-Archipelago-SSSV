@@ -5,68 +5,78 @@
   "filler_item_name": "Power Cell",
   "starting_items": [
     {
-		"items": ["Smashing Start Access", "Dog"],
+		"items": ["Smashing Start Ticket", "Dog"],
 		"yaml_option": ["!random_starting_level"]
 	},
 	{
-		"item_categories": ["Level Access"],
-		"yaml_option":["random_starting_level"],
+		"items": ["Progressive Europe Level"],
+		"yaml_option": ["!random_starting_level"],
 		"random": 1
 	},
 	{
-		"if_previous_item": ["Smashing Start Access", "Have A Nice Day Access", "Stinky Sewers Access"],
+		"item_categories": ["Level Ticket"],
+		"yaml_option":["random_starting_level", "level_tickets"],
+		"random": 1
+	},
+	{
+		"item_categories": ["Progressive Levels"],
+		"yaml_option":["progressive_levels", "random_starting_level"],
+		"random": 1
+	},
+	{
+		"if_previous_item": ["Smashing Start Ticket", "Have A Nice Day Ticket", "Stinky Sewers Ticket", "Progressive Europe Level"],
 		"items": ["Dog"]
 	},
 	{
-		"if_previous_item": ["Honeymoon Lagoon Access", "The Battery Farm Access"],
+		"if_previous_item": ["Honeymoon Lagoon Ticket", "The Battery Farm Ticket"],
 		"items": ["Racing Mouse"]
 	},
 	{
-		"if_previous_item": ["The Engine Room Access", "Rocky Hard Place Access"],
+		"if_previous_item": ["The Engine Room Ticket", "Rocky Hard Place Ticket"],
 		"items": ["Racing Fox"]
 	},
 	{
-		"if_previous_item": ["Rat-O-Matic Access"],
+		"if_previous_item": ["Rat-O-Matic Ticket"],
 		"items": ["Rat"]
 	},
 	{
-		"if_previous_item": ["Ice 'n' Easy Does It Access", "Pinball Blizzard Access"],
+		"if_previous_item": ["Ice 'n' Easy Does It Ticket", "Pinball Blizzard Ticket"],
 		"items": ["Husky"]
 	},
 	{
-		"if_previous_item": ["Snow Joke Access" ,"Penguin Playpen Access", "Hoppa Choppa Access"],
+		"if_previous_item": ["Snow Joke Ticket" ,"Penguin Playpen Ticket", "Hoppa Choppa Ticket", "Progressive Arctic Level"],
 		"items": ["Penguin"]
 	},
 	{
-		"if_previous_item": ["Something Fishy Access"],
+		"if_previous_item": ["Something Fishy Ticket"],
 		"items": ["Cool Cod"]
 	},
 	{
-		"if_previous_item": ["Jungle Japes Access"],
+		"if_previous_item": ["Jungle Japes Ticket", "Progressive Jungle Level"],
 		"items": ["Tortoise Tank"]
 	},
 	{
-		"if_previous_item": ["Jungle Doldrums Access"],
+		"if_previous_item": ["Jungle Doldrums Ticket"],
 		"items": ["Hyena"]
 	},
 	{
-		"if_previous_item": ["Swamp of Eternal Stench Access", "Jungle Jumps Access"],
+		"if_previous_item": ["Swamp of Eternal Stench Ticket", "Jungle Jumps Ticket"],
 		"items": ["Racing Tortoise"]
 	},
 	{
-		"if_previous_item": ["Weight For It Access"],
+		"if_previous_item": ["Weight For It Ticket"],
 		"items": ["Lion"]
 	},
 	{
-		"if_previous_item": ["Fun in the Sun Access", "Borassic Park Access"],
+		"if_previous_item": ["Fun in the Sun Ticket", "Borassic Park Ticket", "Progressive Desert Level"],
 		"items": ["Armed Desert Fox"]
 	},
 	{
-		"if_previous_item": ["Hot Cross Buns Access", "Whirlwind Tour Access"],
+		"if_previous_item": ["Hot Cross Buns Ticket", "Whirlwind Tour Ticket"],
 		"items": ["Camel Tank"]
 	},
 	{
-		"if_previous_item": ["Sting in the Tail Access", "Shifting Sands Access"],
+		"if_previous_item": ["Sting in the Tail Ticket", "Shifting Sands Ticket"],
 		"items": ["Desert Fox"]
 	}
   ],

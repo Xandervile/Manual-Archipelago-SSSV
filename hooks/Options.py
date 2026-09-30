@@ -28,9 +28,19 @@ from ..Helpers import is_option_enabled, get_option_value
 #
 
 class EvoUnlocksBCP(Toggle):
-	"""Evo Parts open BCP, the final level.
+	"""Evo Parts open BCP, the final level. This removes BCP Ticket from the pool, and also removes Progressive Level Requirement for BCP.
 	"""
 	display_name = "BCP Requires Evo Parts"
+
+class LevelTickets(DefaultOnToggle):
+	"""Levels have individual tickets to access levels, including BCP.
+    """
+	display_name = "Level Tickets"
+
+class ProgressiveLevels(DefaultOnToggle):
+	"""Progressive Levels are required for each zone. BCP requires all Europe, Arctic, Jungle and Desert Progressive Level Items.
+    """
+	display_name = "Progressive Levels"
 
 class AnimalKill(DefaultOnToggle):
 	"""Killing Animals in each level contributes an item.
@@ -58,7 +68,7 @@ class ShuffleMonitors(Toggle):
 	display_name = "Shuffle Monitors"
 
 class RandomStartingLevel(Toggle):
-	"""Randomizes the starting level (and animal to fit the level if Animals are shuffled). Currently doesn't work with Animal Shuffle due to limited checks.
+	"""Randomizes the starting level (and animal to fit a level if Animals are shuffled). You do not start with Boss Levels.
 	"""
 	display_name = "Randomize Starting Level"
 
@@ -76,12 +86,14 @@ def before_options_defined(options: dict) -> dict:
 def after_options_defined(options: dict) -> dict:
     options.update({
 	    'evo_unlocks_bcp': EvoUnlocksBCP,
+		'level_tickets': LevelTickets,
+		'progressive_levels': ProgressiveLevels,
         'animal_kill_checks': AnimalKill,
         'shuffle_playable_animals': ShuffleAnimals,
         'shuffle_power_cells': ShufflePowerCells,
         'shuffle_energy_cells': ShuffleEnergyCells,
 		'shuffle_monitors': ShuffleMonitors,
-        'random_starting_level': RandomStartingLevel,
-		'shuffle_tasks': ShuffleTasks
+		'shuffle_tasks': ShuffleTasks,
+		'random_starting_level': RandomStartingLevel
     })
     return options
