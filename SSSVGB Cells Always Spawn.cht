@@ -1,0 +1,52 @@
+0B2D	00	N	WRAM	1	Smashing Start Menu Cell Count	b	h	0	None	
+0B31	00	N	WRAM	1	HaND Menu Cell Count	b	h	0	None	
+0B35	00	N	WRAM	1	Moon Goon Menu Cell Count	b	h	0	None	
+0B39	00	N	WRAM	1	Batt Farm Menu Cell Count	b	h	0	None	
+0B3D	00	N	WRAM	1	Engine Room Menu Cell Count	b	h	0	None	
+0B41	00	N	WRAM	1	FBM Menu Cell Count	b	h	0	None	
+0B45	00	N	WRAM	1	RHP Menu Cell Count	b	h	0	None	
+0B49	00	N	WRAM	1	Stinky Sewers Menu Cell Count	b	h	0	None	
+0B4D	00	N	WRAM	1	Rat-o-Matic Menu Cell Count	b	h	0	None	
+0B55	00	N	WRAM	1	Snow Joke Menu Cell Count	b	h	0	None	
+0B59	00	N	WRAM	1	InEdI Menu Cell Count	b	h	0	None	
+0B5D	00	N	WRAM	1	Penguin Playpen Menu Cell Count	b	h	0	None	
+0B61	00	N	WRAM	1	Pin Blizz Menu Cell Count	b	h	0	None	
+0B65	00	N	WRAM	1	Hoppa Choppa Menu Cell Count	b	h	0	None	
+0B69	00	N	WRAM	1	FIshy Menu Cell Count	b	h	0	None	
+0B71	00	N	WRAM	1	Japes Menu Cell Count	b	h	0	None	
+0B75	00	N	WRAM	1	Doldrums Menu Cell Count	b	h	0	None	
+0B79	00	N	WRAM	1	Swamp Menu Cell Count	b	h	0	None	
+0B7D	00	N	WRAM	1	Weight Menu Cell Count	b	h	0	None	
+0B81	00	N	WRAM	1	Jumps Menu Cell Count	b	h	0	None	
+0B89	00	N	WRAM	1	Fun in the Sun Menu Cell Count	b	h	0	None	
+0B8D	00	N	WRAM	1	HCB Menu Cell Count	b	h	0	None	
+0B91	00	N	WRAM	1	Sting in the Tail Menu Cell Count	b	h	0	None	
+0B95	00	N	WRAM	1	Borassic Park Menu Cell Count	b	h	0	None	
+0B99	00	N	WRAM	1	WWT Menu Cell Count	b	h	0	None	
+0B9D	00	N	WRAM	1	Shifting Sands Menu Cell Count	b	h	0	None	
+0BA9	00	N	WRAM	1	Smashing Start in level cells	b	h	0	None	
+0BAA	00	N	WRAM	1	HaND in level cells	b	h	0	None	
+0BAB	00	N	WRAM	1	MoonGoon in level cells	b	h	0	None	
+0BAC	00	N	WRAM	1	Batt Farm in level cells	b	h	0	None	
+0BAD	00	N	WRAM	1	Engine Room in level cells	b	h	0	None	
+0BAE	00	N	WRAM	1	Fat Bear Mountain in level cells	b	h	0	None	
+0BAF	00	N	WRAM	1	RHP in level cells	b	h	0	None	
+0BB0	00	N	WRAM	1	Stinky Sewers in level cells	b	h	0	None	
+0BB1	00	N	WRAM	1	Rat-O-Matic in level cells	b	h	0	None	
+0BB3	00	N	WRAM	1	Snow Joke In Level Cells	b	h	0	None	
+0BB4	00	N	WRAM	1	InEdI in level cells	b	h	0	None	
+0BB5	00	N	WRAM	1	Penguin Playpen in level cells	b	h	0	None	
+0BB6	00	N	WRAM	1	Pin Blizz in level cells	b	h	0	None	
+0BB7	00	N	WRAM	1	Hoppa Choppa in level cells	b	h	0	None	
+0BB8	00	N	WRAM	1	Fishy in level cells	b	h	0	None	
+0BBA	00	N	WRAM	1	Japes in level cells	b	h	0	None	
+0BBB	00	N	WRAM	1	Doldrums in level cells	b	h	0	None	
+0BBC	00	N	WRAM	1	Swamp in level cells	b	h	0	None	
+0BBD	00	N	WRAM	1	Weight in level cells	b	h	0	None	
+0BBE	00	N	WRAM	1	Jumps in level cells	b	h	0	None	
+0BC0	00	N	WRAM	1	Fun in the Sun in level cells	b	h	0	None	
+0BC1	00	N	WRAM	1	HCB in level cells	b	h	0	None	
+0BC2	00	N	WRAM	1	Sting in the Tail in level cells	b	h	0	None	
+0BC3	00	N	WRAM	1	Borassic Park in level cells	b	h	0	None	
+0BC4	00	N	WRAM	1	WWTt in level cells	b	h	0	None	
+0BC5	00	N	WRAM	1	Shifting Sands in level cells	b	h	0	None	

@@ -1,0 +1,31 @@
+0B0E	01	N	WRAM	1	Smashing Start Select	b	h	0	None	
+0B0F	01	N	WRAM	1	HaND Select	b	h	0	None	
+0B10	01	N	WRAM	1	Moon Goon Select	b	h	0	None	
+0B11	01	N	WRAM	1	Battery Farm Select	b	h	0	None	
+0B12	01	N	WRAM	1	Engine Room Select	b	h	0	None	
+0B13	01	N	WRAM	1	FBM Select	b	h	0	None	
+0B14	01	N	WRAM	1	Rocky Hard Place Select	b	h	0	None	
+0B15	01	N	WRAM	1	Stinky Sewer Select	b	h	0	None	
+0B16	01	N	WRAM	1	Rat-o-Matic Select	b	h	0	None	
+0B17	01	N	WRAM	1	GaDaB?	b	h	0	None	
+0B18	01	N	WRAM	1	Snow Joke Select	b	h	0	None	
+0B19	01	N	WRAM	1	InEDI Select	b	h	0	None	
+0B1A	01	N	WRAM	1	Penguin Playpen Select	b	h	0	None	
+0B1B	01	N	WRAM	1	Pinball Blizzard Select	b	h	0	None	
+0B1C	01	N	WRAM	1	Hoppa Choppa Select	b	h	0	None	
+0B1D	01	N	WRAM	1	Something Fishy Select	b	h	0	None	
+0B1E	01	N	WRAM	1	Walrace?	b	h	0	None	
+0B1F	01	N	WRAM	1	Jungle Japes Select	b	h	0	None	
+0B20	01	N	WRAM	1	Jungle Doldrums Select	b	h	0	None	
+0B21	01	N	WRAM	1	Swamp of Eternal Stench Select	b	h	0	None	
+0B22	01	N	WRAM	1	Weight For It Select	b	h	0	None	
+0B23	01	N	WRAM	1	Jungle Jumps Select	b	h	0	None	
+0B24	01	N	WRAM	1	Evo's Escape?	b	h	0	None	
+0B25	01	N	WRAM	1	Fun in the Sun Select	b	h	0	None	
+0B26	01	N	WRAM	1	Hot Cross Buns Select	b	h	0	None	
+0B27	01	N	WRAM	1	Sting in the Tail Select	b	h	0	None	
+0B28	01	N	WRAM	1	Borassic Park Select	b	h	0	None	
+0B29	01	N	WRAM	1	Whirlwind Tour Select	b	h	0	None	
+0B2A	01	N	WRAM	1	Shifting Sands Select	b	h	0	None	
+0B2B	01	N	WRAM	1	Punch Up Pyramid?	b	h	0	None	
+0B2C	01	N	WRAM	1	BCP Select	b	h	0	None	

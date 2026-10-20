@@ -72,6 +72,11 @@ class RandomStartingLevel(Toggle):
 	"""
 	display_name = "Randomize Starting Level"
 
+class StartingLevelAmount(Range):
+	display_name = "Starting Level Amount"
+	range_start = 1
+	range_end = 26
+
 class ShuffleTasks(Toggle):
 	"""Randomizes the tasks in the levels that contain them.
 	"""
